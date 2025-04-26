@@ -1,0 +1,31 @@
+2025-04-26 17:11:45.051 [info] Experiment 'pythonaacf' is active
+2025-04-26 17:11:45.051 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-04-26 17:11:45.051 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-04-26 17:11:45.051 [warning] Dir "/home/windsurf/.pixi/envs" is not watchable (directory does not exist)
+2025-04-26 17:11:45.663 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.10.12 (main, Feb  4 2025, 14:57:36) [GCC 11.4.0]',
+  version: {
+    raw: '3.10.12',
+    major: 3,
+    minor: 10,
+    patch: 12,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.10.12 64-bit',
+  detailedDisplayName: 'Python 3.10.12 64-bit',
+  type: undefined
+} /home/windsurf/.windsurf-server/extensions/ms-python.python-2025.4.0-universal/python_files/installed_check.py /home/windsurf/backend/requirements.txt
+2025-04-26 17:11:45.663 [info] > /bin/python ./.windsurf-server/extensions/ms-python.python-2025.4.0-universal/python_files/installed_check.py ./backend/requirements.txt
+2025-04-26 17:11:45.665 [info] Python interpreter path: /bin/python
+2025-04-26 17:11:46.081 [info] > pyenv which python
+2025-04-26 17:11:46.081 [info] cwd: .
+2025-04-26 17:11:47.110 [info] Editor support is inactive since language server is set to None.
+2025-04-26 17:21:17.710 [info] Send text to terminal: git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git

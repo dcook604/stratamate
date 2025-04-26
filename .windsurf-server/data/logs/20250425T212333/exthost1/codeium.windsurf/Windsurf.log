@@ -1,0 +1,60 @@
+2025-04-25 21:23:51.644 [info] 2025/04/25 21:23:51 maxprocs: Leaving GOMAXPROCS=4: CPU quota undefined
+2025-04-25 21:23:52.328 [info] I0425 21:23:52.328100  5089 main.go:582] Setting GOMAXPROCS to 4
+2025-04-25 21:23:52.337 [info] I0425 21:23:52.337226  5089 main.go:797] Starting language server process with pid 5089
+2025-04-25 21:23:52.338 [info] I0425 21:23:52.338165  5089 server.go:260] Language server will attempt to listen on host 127.0.0.1
+2025-04-25 21:23:52.339 [info] I0425 21:23:52.339042  5089 server.go:267] Language server listening on random port at 40724
+2025-04-25 21:23:52.475 [info] I0425 21:23:52.474972  5089 server.go:378] Created extension server client at port 34299
+2025-04-25 21:23:53.582 [info] I0425 21:23:53.582034  5089 server.go:887] Local search is enabled, will index local files.
+2025-04-25 21:23:53.582 [info] I0425 21:23:53.582083  5089 server.go:891] Using 1 indexer workers
+2025-04-25 21:23:53.970 [info] (Windsurf) 2025-04-25 21:23:53.962 [INFO]: Language server started
+2025-04-25 21:23:54.355 [info] (Windsurf) 2025-04-25 21:23:54.355 [INFO]: LS lspClient started successfully
+2025-04-25 21:24:12.135 [info] (Windsurf) 2025-04-25 21:24:12.135 [INFO]: [Cascade Manager] Opening diff zones for: 
+2025-04-25 21:24:54.806 [info] (Windsurf) 2025-04-25 21:24:54.805 [INFO]: [Cascade Manager] Opening diff zones for: schemas.py
+2025-04-25 21:24:54.809 [info] (Windsurf) 2025-04-25 21:24:54.809 [INFO]: [Cascade Manager] Opening diff zones for: models.py
+2025-04-25 21:24:54.813 [info] (Windsurf) 2025-04-25 21:24:54.813 [INFO]: [Cascade Manager] Opening diff zones for: database.py
+2025-04-25 21:24:54.820 [info] (Windsurf) 2025-04-25 21:24:54.820 [INFO]: [Cascade Manager] Opening diff zones for: crud.py
+2025-04-25 21:24:54.823 [info] (Windsurf) 2025-04-25 21:24:54.823 [INFO]: [Cascade Manager] Opening diff zones for: deps.py
+2025-04-25 21:24:54.826 [info] (Windsurf) 2025-04-25 21:24:54.826 [INFO]: [Cascade Manager] Opening diff zones for: __init__.py
+2025-04-25 21:24:54.830 [info] (Windsurf) 2025-04-25 21:24:54.830 [INFO]: [Cascade Manager] Opening diff zones for: auth.py
+2025-04-25 21:24:54.839 [info] (Windsurf) 2025-04-25 21:24:54.839 [INFO]: [Cascade Manager] Opening diff zones for: announcements.py
+2025-04-25 21:24:54.842 [info] (Windsurf) 2025-04-25 21:24:54.842 [INFO]: [Cascade Manager] Opening diff zones for: units.py
+2025-04-25 21:24:54.848 [info] (Windsurf) 2025-04-25 21:24:54.848 [INFO]: [Cascade Manager] Opening diff zones for: residents.py
+2025-04-25 21:24:54.853 [info] (Windsurf) 2025-04-25 21:24:54.853 [INFO]: [Cascade Manager] Opening diff zones for: requests.py
+2025-04-25 21:25:06.293 [info] (Windsurf) 2025-04-25 21:25:06.293 [INFO]: [Cascade Manager] Opening diff zones for: main.py
+2025-04-25 21:26:35.322 [info] (Windsurf) 2025-04-25 21:26:35.322 [INFO]: [Cascade Manager] Opening diff zones for: models.py
+2025-04-25 21:27:26.127 [info] (Windsurf) 2025-04-25 21:27:26.127 [INFO]: [Cascade Manager] Opening diff zones for: schemas.py
+2025-04-25 21:27:26.539 [info] (Windsurf) 2025-04-25 21:27:26.539 [INFO]: [Cascade Manager] Opening diff zones for: database.py
+2025-04-25 21:27:26.651 [info] (Windsurf) 2025-04-25 21:27:26.650 [INFO]: [Cascade Manager] Opening diff zones for: deps.py
+2025-04-25 21:27:45.814 [info] (Windsurf) 2025-04-25 21:27:45.814 [INFO]: [Cascade Manager] Opening diff zones for: auth.py
+2025-04-25 21:28:03.215 [info] (Windsurf) 2025-04-25 21:28:03.215 [INFO]: [Cascade Manager] Opening diff zones for: units.py
+2025-04-25 21:28:20.370 [info] (Windsurf) 2025-04-25 21:28:20.370 [INFO]: [Cascade Manager] Opening diff zones for: requests.py
+2025-04-25 21:29:29.452 [info] (Windsurf) 2025-04-25 21:29:29.452 [INFO]: [Cascade Manager] Opening diff zones for: .gitkeep
+2025-04-25 21:29:35.398 [info] (Windsurf) 2025-04-25 21:29:35.398 [INFO]: [Cascade Manager] Opening diff zones for: index.html
+2025-04-25 21:29:35.402 [info] (Windsurf) 2025-04-25 21:29:35.402 [INFO]: [Cascade Manager] Opening diff zones for: index.js
+2025-04-25 21:29:35.406 [info] (Windsurf) 2025-04-25 21:29:35.405 [INFO]: [Cascade Manager] Opening diff zones for: App.js
+2025-04-25 21:29:35.412 [info] (Windsurf) 2025-04-25 21:29:35.412 [INFO]: [Cascade Manager] Opening diff zones for: api.js
+2025-04-25 21:29:35.438 [info] (Windsurf) 2025-04-25 21:29:35.437 [INFO]: [Cascade Manager] Opening diff zones for: Navbar.js
+2025-04-25 21:29:45.203 [info] (Windsurf) 2025-04-25 21:29:45.202 [INFO]: [Cascade Manager] Opening diff zones for: PropertyList.js
+2025-04-25 21:29:50.521 [info] (Windsurf) 2025-04-25 21:29:50.521 [INFO]: [Cascade Manager] Opening diff zones for: PropertyForm.js
+2025-04-25 21:29:55.263 [info] (Windsurf) 2025-04-25 21:29:55.262 [INFO]: [Cascade Manager] Opening diff zones for: TicketList.js
+2025-04-25 21:29:59.827 [info] (Windsurf) 2025-04-25 21:29:59.827 [INFO]: [Cascade Manager] Opening diff zones for: TicketForm.js
+2025-04-25 21:30:07.432 [info] (Windsurf) 2025-04-25 21:30:07.431 [INFO]: [Cascade Manager] Opening diff zones for: LoginPage.js
+2025-04-25 21:30:07.439 [info] (Windsurf) 2025-04-25 21:30:07.439 [INFO]: [Cascade Manager] Opening diff zones for: TicketsPage.js
+2025-04-25 21:30:07.447 [info] (Windsurf) 2025-04-25 21:30:07.446 [INFO]: [Cascade Manager] Opening diff zones for: DashboardPage.js
+2025-04-25 21:30:07.455 [info] (Windsurf) 2025-04-25 21:30:07.455 [INFO]: [Cascade Manager] Opening diff zones for: PropertiesPage.js
+2025-04-25 21:30:07.461 [info] (Windsurf) 2025-04-25 21:30:07.461 [INFO]: [Cascade Manager] Opening diff zones for: NotFoundPage.js
+2025-04-25 21:30:07.465 [info] (Windsurf) 2025-04-25 21:30:07.465 [INFO]: [Cascade Manager] Opening diff zones for: theme.css
+2025-04-25 21:31:16.081 [info] (Windsurf) 2025-04-25 21:31:16.081 [INFO]: [Cascade Manager] Opening diff zones for: DashboardPage.js
+2025-04-25 21:31:28.376 [info] (Windsurf) 2025-04-25 21:31:28.376 [INFO]: [Cascade Manager] Opening diff zones for: PropertyList.js
+2025-04-25 21:31:41.694 [info] (Windsurf) 2025-04-25 21:31:41.694 [INFO]: [Cascade Manager] Opening diff zones for: TicketList.js
+2025-04-25 21:31:53.797 [info] (Windsurf) 2025-04-25 21:31:53.796 [INFO]: [Cascade Manager] Opening diff zones for: PropertyForm.js
+2025-04-25 21:32:12.953 [info] (Windsurf) 2025-04-25 21:32:12.953 [INFO]: [Cascade Manager] Opening diff zones for: TicketForm.js
+2025-04-25 21:32:23.474 [info] (Windsurf) 2025-04-25 21:32:23.474 [INFO]: [Cascade Manager] Opening diff zones for: UnitList.js
+2025-04-25 21:32:59.158 [info] (Windsurf) 2025-04-25 21:32:59.158 [INFO]: [Cascade Manager] Opening diff zones for: PropertiesPage.js
+2025-04-25 21:33:31.544 [info] (Windsurf) 2025-04-25 21:33:31.544 [INFO]: [Cascade Manager] Opening diff zones for: auth.js
+2025-04-25 21:33:44.949 [info] (Windsurf) 2025-04-25 21:33:44.949 [INFO]: [Cascade Manager] Opening diff zones for: LoginPage.js
+2025-04-25 21:34:20.018 [info] (Windsurf) 2025-04-25 21:34:20.018 [INFO]: [Cascade Manager] Opening diff zones for: App.js
+2025-04-25 21:35:23.083 [info] (Windsurf) 2025-04-25 21:35:23.082 [INFO]: [Cascade Manager] Opening diff zones for: DashboardPage.js
+2025-04-25 21:35:23.112 [info] (Windsurf) 2025-04-25 21:35:23.111 [INFO]: [Cascade Manager] Opening diff zones for: PropertyList.js
+2025-04-25 21:35:23.213 [info] (Windsurf) 2025-04-25 21:35:23.213 [INFO]: [Cascade Manager] Opening diff zones for: UnitList.js
+2025-04-25 21:35:23.349 [info] (Windsurf) 2025-04-25 21:35:23.349 [INFO]: [Cascade Manager] Opening diff zones for: TicketList.js

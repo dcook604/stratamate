@@ -1,0 +1,9 @@
+2025-04-25 21:16:59.622 [info] Extension host with pid 37029 started
+2025-04-25 21:16:59.743 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-04-25 21:17:01.140 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-04-25 21:17:01.207 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-04-25 21:17:06.626 [info] ExtensionService#_doActivateExtension codeium.windsurf, startup: false, activationEvent: '*'
+2025-04-25 21:17:40.289 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:17:40.290 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:17:41.506 [info] Extension host terminating: received terminate message from renderer
+2025-04-25 21:17:41.695 [info] Extension host with pid 37029 exiting with code 0

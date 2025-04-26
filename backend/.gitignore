@@ -1,0 +1,21 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore SQLite DB
+*.db
+
+# Ignore logs
+*.log
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore Docker artifacts
+dist/
+build/
+*.egg-info/
+
+# Ignore VSCode settings
+.vscode/

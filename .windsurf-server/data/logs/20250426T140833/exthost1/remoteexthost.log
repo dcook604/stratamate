@@ -1,0 +1,130 @@
+2025-04-26 14:09:30.657 [info] Extension host with pid 5328 started
+2025-04-26 14:09:30.657 [error] Error: EEXIST: file already exists, open '/home/windsurf/.windsurf-server/data/User/workspaceStorage/577edb65cae8197399b85b2b078f4d5e/vscode.lock'
+2025-04-26 14:09:30.669 [info] Lock '/home/windsurf/.windsurf-server/data/User/workspaceStorage/577edb65cae8197399b85b2b078f4d5e/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-04-26 14:09:30.672 [info] Lock '/home/windsurf/.windsurf-server/data/User/workspaceStorage/577edb65cae8197399b85b2b078f4d5e/vscode.lock': The pid 238504 appears to be gone.
+2025-04-26 14:09:30.672 [info] Lock '/home/windsurf/.windsurf-server/data/User/workspaceStorage/577edb65cae8197399b85b2b078f4d5e/vscode.lock': Deleting a stale lock.
+2025-04-26 14:09:30.683 [info] Lock '/home/windsurf/.windsurf-server/data/User/workspaceStorage/577edb65cae8197399b85b2b078f4d5e/vscode.lock': Lock acquired.
+2025-04-26 14:09:30.855 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-26 14:09:30.857 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2025-04-26 14:09:30.857 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2025-04-26 14:09:31.359 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-26 14:09:31.688 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-26 14:09:31.689 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-26 14:09:32.467 [info] ExtensionService#_doActivateExtension codeium.windsurf, startup: true, activationEvent: '*'
+2025-04-26 14:09:41.363 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-26 14:09:41.363 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-26 14:09:42.452 [info] Eager extensions activated
+2025-04-26 14:09:42.849 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: Codeium.windsurfPyright
+2025-04-26 14:09:42.850 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-04-26 14:09:42.851 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-04-26 14:09:42.852 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-04-26 14:09:42.854 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-04-26 14:09:42.854 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-04-26 14:09:42.855 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockerfile'
+2025-04-26 14:09:44.211 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-04-26 14:09:44.212 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-04-26 14:09:45.420 [info] ExtensionService#_doActivateExtension Codeium.windsurfPyright, startup: false, activationEvent: 'onLanguage:python'
+2025-04-26 14:09:45.420 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-04-26 14:58:36.640 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-04-26 15:05:37.646 [info] ExtensionService#_doActivateExtension vscode.grunt, startup: false, activationEvent: 'onTaskType:grunt'
+2025-04-26 15:05:37.646 [info] ExtensionService#_doActivateExtension vscode.gulp, startup: false, activationEvent: 'onTaskType:gulp'
+2025-04-26 15:05:37.646 [info] ExtensionService#_doActivateExtension vscode.jake, startup: false, activationEvent: 'onTaskType:jake'
+2025-04-26 15:21:35.706 [info] Extension host terminating: received terminate message from renderer
+2025-04-26 15:21:35.707 [info] Lock '/home/windsurf/.windsurf-server/data/User/workspaceStorage/577edb65cae8197399b85b2b078f4d5e/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-04-26 15:21:35.888 [error] Canceled: Canceled
+	at new CU (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:29:145840)
+	at YI.U (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:29:150451)
+	at n.<computed>.r.charCodeAt.n.<computed> (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:29:147945)
+	at qS.g (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:112:32228)
+	at qS.executeCommand (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:112:31732)
+	at i.registerCommand.description (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:112:31062)
+	at qS.h (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:112:32748)
+	at qS.g (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:112:31825)
+	at qS.executeCommand (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:112:31732)
+	at Object.executeCommand (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:173:46382)
+	at Hp.L [as value] (/home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/extensions/git/dist/main.js:2:1000015)
+	at C.B (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at C (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+	at C.fire (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+	at Object.p [as dispose] (/home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/extensions/git/dist/main.js:2:1022655)
+	at /home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/extensions/git/dist/main.js:2:1029034
+	at Array.forEach (<anonymous>)
+	at b.dispose (/home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/extensions/git/dist/main.js:2:1029020)
+	at U_.<anonymous> (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:106:20087)
+	at U_.dispose (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:106:20183)
+	at U_.<anonymous> (/home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/extensions/git/dist/main.js:2:1002499)
+	at U_.dispose (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:106:20183)
+	at Cs (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:25:701)
+	at file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:117:15142
+	at file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:25:1011
+	at Object.dispose (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+	at gK.eb (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:117:12069)
+	at file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:117:10024
+	at Array.map (<anonymous>)
+	at gK.$ (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:117:10012)
+	at gK.terminate (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:117:10255)
+	at N7.terminate (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:118:1434)
+	at vn (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:191:15124)
+	at Hp.value (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:191:13279)
+	at C.B (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at C.fire (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+	at vo.fire (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:29:9459)
+	at Tw.A (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:29:12575)
+	at Hp.value (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:29:10995)
+	at C.B (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at C.fire (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+	at ND.acceptChunk (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:29:7942)
+	at Hp.value (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:29:7228)
+	at C.B (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at C.fire (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+	at gF.z (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:29:21237) setContext undefined
+2025-04-26 15:21:35.889 [error] Canceled: Canceled
+	at new CU (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:29:145840)
+	at YI.U (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:29:150451)
+	at n.<computed>.r.charCodeAt.n.<computed> (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:29:147945)
+	at qS.g (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:112:32228)
+	at qS.executeCommand (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:112:31732)
+	at i.registerCommand.description (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:112:31062)
+	at qS.h (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:112:32748)
+	at qS.g (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:112:31825)
+	at qS.executeCommand (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:112:31732)
+	at Object.executeCommand (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:173:46382)
+	at set hasGitHubRepositories [as hasGitHubRepositories] (/home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/extensions/github/dist/extension.js:2:344166)
+	at /home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/extensions/github/dist/extension.js:2:345125
+	at Hp.value (/home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/extensions/git/dist/main.js:2:1120522)
+	at C.B (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at C (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+	at C.fire (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+	at Object.p [as dispose] (/home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/extensions/git/dist/main.js:2:1022655)
+	at /home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/extensions/git/dist/main.js:2:1029034
+	at Array.forEach (<anonymous>)
+	at b.dispose (/home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/extensions/git/dist/main.js:2:1029020)
+	at U_.<anonymous> (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:106:20087)
+	at U_.dispose (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:106:20183)
+	at U_.<anonymous> (/home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/extensions/git/dist/main.js:2:1002499)
+	at U_.dispose (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:106:20183)
+	at Cs (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:25:701)
+	at file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:117:15142
+	at file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:25:1011
+	at Object.dispose (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+	at gK.eb (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:117:12069)
+	at file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:117:10024
+	at Array.map (<anonymous>)
+	at gK.$ (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:117:10012)
+	at gK.terminate (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:117:10255)
+	at N7.terminate (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:118:1434)
+	at vn (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:191:15124)
+	at Hp.value (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:191:13279)
+	at C.B (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at C.fire (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+	at vo.fire (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:29:9459)
+	at Tw.A (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:29:12575)
+	at Hp.value (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:29:10995)
+	at C.B (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at C.fire (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+	at ND.acceptChunk (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:29:7942)
+	at Hp.value (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:29:7228)
+	at C.B (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at C.fire (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+	at gF.z (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/vs/workbench/api/node/extensionHostProcess.js:29:21237) setContext undefined
+2025-04-26 15:21:35.910 [info] Extension host with pid 5328 exiting with code 0

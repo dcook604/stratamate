@@ -1,0 +1,347 @@
+2025-04-25 21:23:33.915 [info] 
+
+
+
+
+2025-04-25 21:23:33.932 [info] Extension host agent started.
+2025-04-25 21:23:45.305 [info] [127.0.0.1][0938bc24][ManagementConnection] New connection established.
+2025-04-25 21:23:45.386 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] New connection established.
+2025-04-25 21:23:45.895 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> Launched Extension Host Process.
+2025-04-25 21:23:53.962 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:23:53 [INFO]: Language server started[39m
+
+2025-04-25 21:23:54.355 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:23:54 [INFO]: LS lspClient started successfully[39m
+
+2025-04-25 21:24:12.135 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:24:12 [INFO]: [Cascade Manager] Opening diff zones for: [39m
+
+2025-04-25 21:24:54.806 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:24:54 [INFO]: [Cascade Manager] Opening diff zones for: schemas.py[39m
+
+2025-04-25 21:24:54.810 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:24:54 [INFO]: [Cascade Manager] Opening diff zones for: models.py[39m
+
+2025-04-25 21:24:54.813 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:24:54 [INFO]: [Cascade Manager] Opening diff zones for: database.py[39m
+
+2025-04-25 21:24:54.820 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:24:54 [INFO]: [Cascade Manager] Opening diff zones for: crud.py[39m
+
+2025-04-25 21:24:54.823 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:24:54 [INFO]: [Cascade Manager] Opening diff zones for: deps.py[39m
+
+2025-04-25 21:24:54.826 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:24:54 [INFO]: [Cascade Manager] Opening diff zones for: __init__.py[39m
+
+2025-04-25 21:24:54.830 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:24:54 [INFO]: [Cascade Manager] Opening diff zones for: auth.py[39m
+
+2025-04-25 21:24:54.839 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:24:54 [INFO]: [Cascade Manager] Opening diff zones for: announcements.py[39m
+
+2025-04-25 21:24:54.842 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:24:54 [INFO]: [Cascade Manager] Opening diff zones for: units.py[39m
+
+2025-04-25 21:24:54.848 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:24:54 [INFO]: [Cascade Manager] Opening diff zones for: residents.py[39m
+
+2025-04-25 21:24:54.853 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:24:54 [INFO]: [Cascade Manager] Opening diff zones for: requests.py[39m
+
+2025-04-25 21:25:06.293 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:25:06 [INFO]: [Cascade Manager] Opening diff zones for: main.py[39m
+
+2025-04-25 21:25:22.355 [info] Getting Manifest... ms-python.python
+2025-04-25 21:25:23.155 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/windsurf/.windsurf-server/extensions/extensions.json","external":"file:///home/windsurf/.windsurf-server/extensions/extensions.json","path":"/home/windsurf/.windsurf-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.97.0","date":"2025-04-24T23:47:56.777Z"}}
+2025-04-25 21:25:23.322 [info] Getting Manifest... ms-python.debugpy
+2025-04-25 21:25:23.578 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/windsurf/.windsurf-server/extensions/extensions.json","external":"file:///home/windsurf/.windsurf-server/extensions/extensions.json","path":"/home/windsurf/.windsurf-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.97.0","date":"2025-04-24T23:47:56.777Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-04-25 21:25:27.642 [info] Extracted extension to file:///home/windsurf/.windsurf-server/extensions/ms-python.debugpy-2025.6.0-linux-x64: ms-python.debugpy
+2025-04-25 21:25:27.695 [info] Renamed to /home/windsurf/.windsurf-server/extensions/ms-python.debugpy-2025.6.0-linux-x64
+2025-04-25 21:25:28.736 [info] Extracted extension to file:///home/windsurf/.windsurf-server/extensions/ms-python.python-2025.4.0-universal: ms-python.python
+2025-04-25 21:25:28.932 [info] Renamed to /home/windsurf/.windsurf-server/extensions/ms-python.python-2025.4.0-universal
+2025-04-25 21:25:28.953 [info] Extension installed successfully: ms-python.debugpy file:///home/windsurf/.windsurf-server/extensions/extensions.json
+2025-04-25 21:25:28.953 [info] Extension installed successfully: ms-python.python file:///home/windsurf/.windsurf-server/extensions/extensions.json
+2025-04-25 21:25:30.363 [info] Getting Manifest... codeium.windsurfpyright
+2025-04-25 21:25:30.561 [info] Installing extension: codeium.windsurfpyright {"isMachineScoped":false,"donotVerifySignature":true,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/windsurf/.windsurf-server/extensions/extensions.json","external":"file:///home/windsurf/.windsurf-server/extensions/extensions.json","path":"/home/windsurf/.windsurf-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.97.0","date":"2025-04-24T23:47:56.777Z"}}
+2025-04-25 21:25:30.715 [info] Getting Manifest... ms-python.python
+2025-04-25 21:25:36.596 [info] Extracted extension to file:///home/windsurf/.windsurf-server/extensions/codeium.windsurfpyright-1.28.0-universal: codeium.windsurfpyright
+2025-04-25 21:25:36.983 [info] Renamed to /home/windsurf/.windsurf-server/extensions/codeium.windsurfpyright-1.28.0-universal
+2025-04-25 21:25:37.000 [info] Extension installed successfully: codeium.windsurfpyright file:///home/windsurf/.windsurf-server/extensions/extensions.json
+2025-04-25 21:26:35.322 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:26:35 [INFO]: [Cascade Manager] Opening diff zones for: models.py[39m
+
+2025-04-25 21:27:26.127 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:27:26 [INFO]: [Cascade Manager] Opening diff zones for: schemas.py[39m
+
+2025-04-25 21:27:26.538 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:27:26 [INFO]: [Cascade Manager] Opening diff zones for: database.py[39m
+
+2025-04-25 21:27:26.650 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:27:26 [INFO]: [Cascade Manager] Opening diff zones for: deps.py[39m
+
+2025-04-25 21:27:45.813 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:27:45 [INFO]: [Cascade Manager] Opening diff zones for: auth.py[39m
+
+2025-04-25 21:28:03.215 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:28:03 [INFO]: [Cascade Manager] Opening diff zones for: units.py[39m
+
+2025-04-25 21:28:20.370 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:28:20 [INFO]: [Cascade Manager] Opening diff zones for: requests.py[39m
+
+2025-04-25 21:28:33.933 [info] New EH opened, aborting shutdown
+2025-04-25 21:29:29.452 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:29:29 [INFO]: [Cascade Manager] Opening diff zones for: .gitkeep[39m
+
+2025-04-25 21:29:35.400 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:29:35 [INFO]: [Cascade Manager] Opening diff zones for: index.html[39m
+
+2025-04-25 21:29:35.402 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:29:35 [INFO]: [Cascade Manager] Opening diff zones for: index.js[39m
+
+2025-04-25 21:29:35.406 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:29:35 [INFO]: [Cascade Manager] Opening diff zones for: App.js[39m
+
+2025-04-25 21:29:35.412 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:29:35 [INFO]: [Cascade Manager] Opening diff zones for: api.js[39m
+
+2025-04-25 21:29:35.438 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:29:35 [INFO]: [Cascade Manager] Opening diff zones for: Navbar.js[39m
+
+2025-04-25 21:29:45.202 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:29:45 [INFO]: [Cascade Manager] Opening diff zones for: PropertyList.js[39m
+
+2025-04-25 21:29:50.521 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:29:50 [INFO]: [Cascade Manager] Opening diff zones for: PropertyForm.js[39m
+
+2025-04-25 21:29:55.262 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:29:55 [INFO]: [Cascade Manager] Opening diff zones for: TicketList.js[39m
+
+2025-04-25 21:29:59.827 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:29:59 [INFO]: [Cascade Manager] Opening diff zones for: TicketForm.js[39m
+
+2025-04-25 21:30:07.432 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:30:07 [INFO]: [Cascade Manager] Opening diff zones for: LoginPage.js[39m
+
+2025-04-25 21:30:07.439 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:30:07 [INFO]: [Cascade Manager] Opening diff zones for: TicketsPage.js[39m
+
+2025-04-25 21:30:07.447 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:30:07 [INFO]: [Cascade Manager] Opening diff zones for: DashboardPage.js[39m
+
+2025-04-25 21:30:07.455 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:30:07 [INFO]: [Cascade Manager] Opening diff zones for: PropertiesPage.js[39m
+
+2025-04-25 21:30:07.461 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:30:07 [INFO]: [Cascade Manager] Opening diff zones for: NotFoundPage.js[39m
+
+2025-04-25 21:30:07.465 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:30:07 [INFO]: [Cascade Manager] Opening diff zones for: theme.css[39m
+
+2025-04-25 21:31:16.081 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:31:16 [INFO]: [Cascade Manager] Opening diff zones for: DashboardPage.js[39m
+
+2025-04-25 21:31:28.376 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:31:28 [INFO]: [Cascade Manager] Opening diff zones for: PropertyList.js[39m
+
+2025-04-25 21:31:41.694 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:31:41 [INFO]: [Cascade Manager] Opening diff zones for: TicketList.js[39m
+
+2025-04-25 21:31:53.796 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:31:53 [INFO]: [Cascade Manager] Opening diff zones for: PropertyForm.js[39m
+
+2025-04-25 21:32:12.953 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:32:12 [INFO]: [Cascade Manager] Opening diff zones for: TicketForm.js[39m
+
+2025-04-25 21:32:23.474 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:32:23 [INFO]: [Cascade Manager] Opening diff zones for: UnitList.js[39m
+
+2025-04-25 21:32:59.158 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:32:59 [INFO]: [Cascade Manager] Opening diff zones for: PropertiesPage.js[39m
+
+2025-04-25 21:33:31.544 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:33:31 [INFO]: [Cascade Manager] Opening diff zones for: auth.js[39m
+
+2025-04-25 21:33:44.949 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:33:44 [INFO]: [Cascade Manager] Opening diff zones for: LoginPage.js[39m
+
+2025-04-25 21:34:20.017 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:34:20 [INFO]: [Cascade Manager] Opening diff zones for: App.js[39m
+
+2025-04-25 21:35:23.082 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:35:23 [INFO]: [Cascade Manager] Opening diff zones for: DashboardPage.js[39m
+
+2025-04-25 21:35:23.112 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:35:23 [INFO]: [Cascade Manager] Opening diff zones for: PropertyList.js[39m
+
+2025-04-25 21:35:23.213 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:35:23 [INFO]: [Cascade Manager] Opening diff zones for: UnitList.js[39m
+
+2025-04-25 21:35:23.349 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> [32m(Windsurf) 2025-04-25 21:35:23 [INFO]: [Cascade Manager] Opening diff zones for: TicketList.js[39m
+
+2025-04-25 21:38:35.421 [info] [127.0.0.1][0938bc24][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-04-25 21:38:35.560 [info] [127.0.0.1][ea302aef][ExtensionHostConnection] <5038> Extension Host Process exited with code: 0, signal: null.
+2025-04-25 21:38:35.560 [info] Last EH closed, waiting before shutting down
+2025-04-25 21:38:49.574 [info] [127.0.0.1][77d76977][ManagementConnection] New connection established.
+2025-04-25 21:38:49.698 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] New connection established.
+2025-04-25 21:38:49.704 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> Launched Extension Host Process.
+2025-04-25 21:38:55.606 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:38:55 [INFO]: Language server started[39m
+
+2025-04-25 21:38:55.939 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:38:55 [INFO]: LS lspClient started successfully[39m
+
+2025-04-25 21:39:08.155 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:39:08 [INFO]: [Cascade Manager] Opening diff zones for: [39m
+
+2025-04-25 21:40:01.202 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:40:01 [INFO]: [Cascade Manager] Opening diff zones for: UnitForm.js[39m
+
+2025-04-25 21:40:01.439 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:40:01 [INFO]: [Cascade Manager] Opening diff zones for: RegisterPage.js[39m
+
+2025-04-25 21:40:03.420 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:40:03 [INFO]: [Cascade Manager] Opening diff zones for: TicketForm.js[39m
+
+2025-04-25 21:40:43.885 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:40:43 [INFO]: [Cascade Manager] Opening diff zones for: UserProfilePage.js[39m
+
+2025-04-25 21:40:55.917 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:40:55 [INFO]: [Cascade Manager] Opening diff zones for: PropertiesPage.js[39m
+
+2025-04-25 21:41:06.399 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:41:06 [INFO]: [Cascade Manager] Opening diff zones for: UnitList.js[39m
+
+2025-04-25 21:41:27.169 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:41:27 [INFO]: [Cascade Manager] Opening diff zones for: App.js[39m
+
+2025-04-25 21:41:51.612 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:41:51 [INFO]: [Cascade Manager] Opening diff zones for: PropertyList.js[39m
+
+2025-04-25 21:41:58.197 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:41:58 [INFO]: [Cascade Manager] Opening diff zones for: TicketList.js[39m
+
+2025-04-25 21:42:30.322 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:42:30 [INFO]: [Cascade Manager] Opening diff zones for: index.js[39m
+
+2025-04-25 21:43:01.527 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:43:01 [INFO]: [Cascade Manager] Opening diff zones for: logo.png[39m
+
+2025-04-25 21:43:21.157 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:43:21 [INFO]: [Cascade Manager] Opening diff zones for: LoginPage.js[39m
+
+2025-04-25 21:43:35.561 [info] New EH opened, aborting shutdown
+2025-04-25 21:44:08.100 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:44:08 [INFO]: [Cascade Manager] Opening diff zones for: Dockerfile[39m
+
+2025-04-25 21:44:08.112 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:44:08 [INFO]: [Cascade Manager] Opening diff zones for: Dockerfile[39m
+
+2025-04-25 21:44:13.501 [info] Getting Manifest... ms-azuretools.vscode-docker
+2025-04-25 21:44:14.457 [info] Installing extension: ms-azuretools.vscode-docker {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/windsurf/.windsurf-server/extensions/extensions.json","external":"file:///home/windsurf/.windsurf-server/extensions/extensions.json","path":"/home/windsurf/.windsurf-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.97.0","date":"2025-04-24T23:47:56.777Z"}}
+2025-04-25 21:44:15.245 [info] Extracted extension to file:///home/windsurf/.windsurf-server/extensions/ms-azuretools.vscode-docker-1.29.5-universal: ms-azuretools.vscode-docker
+2025-04-25 21:44:15.259 [info] Renamed to /home/windsurf/.windsurf-server/extensions/ms-azuretools.vscode-docker-1.29.5-universal
+2025-04-25 21:44:15.294 [info] Extension installed successfully: ms-azuretools.vscode-docker file:///home/windsurf/.windsurf-server/extensions/extensions.json
+2025-04-25 21:44:16.614 [info] Getting Manifest... ms-azuretools.vscode-docker
+2025-04-25 21:44:16.935 [info] Installing extension: ms-azuretools.vscode-docker {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/windsurf/.windsurf-server/extensions/extensions.json","external":"file:///home/windsurf/.windsurf-server/extensions/extensions.json","path":"/home/windsurf/.windsurf-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.97.0","date":"2025-04-24T23:47:56.777Z"}}
+2025-04-25 21:44:17.120 [info] Extension installed successfully: ms-azuretools.vscode-docker file:///home/windsurf/.windsurf-server/extensions/extensions.json
+2025-04-25 21:45:00.716 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:45:00 [INFO]: [Cascade Manager] Opening diff zones for: docker-compose.yml[39m
+
+2025-04-25 21:45:46.673 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:45:46 [INFO]: [Cascade Manager] Opening diff zones for: docker-compose.yml[39m
+
+2025-04-25 21:46:15.416 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:46:15 [INFO]: [Cascade Manager] Opening diff zones for: auth.js[39m
+
+2025-04-25 21:46:27.278 [error] AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1122:18)
+    at afterConnectMultiple (node:net:1689:7)
+2025-04-25 21:46:27.281 [error] AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1122:18)
+    at afterConnectMultiple (node:net:1689:7)
+2025-04-25 21:46:27.526 [error] AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1122:18)
+    at afterConnectMultiple (node:net:1689:7)
+2025-04-25 21:47:07.442 [error] AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1122:18)
+    at afterConnectMultiple (node:net:1689:7)
+2025-04-25 21:47:10.071 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:47:10 [INFO]: [Cascade Manager] Opening diff zones for: App.js[39m
+
+2025-04-25 21:47:10.520 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:47:10 [INFO]: [Cascade Manager] Opening diff zones for: UserProfilePage.js[39m
+
+2025-04-25 21:47:10.640 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:47:10 [INFO]: [Cascade Manager] Opening diff zones for: RegisterPage.js[39m
+
+2025-04-25 21:47:11.079 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:47:11 [INFO]: [Cascade Manager] Opening diff zones for: DashboardPage.js[39m
+
+2025-04-25 21:47:11.380 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:47:11 [INFO]: [Cascade Manager] Opening diff zones for: PropertyList.js[39m
+
+2025-04-25 21:47:15.835 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:47:15 [INFO]: [Cascade Manager] Opening diff zones for: UnitForm.js[39m
+
+2025-04-25 21:47:15.838 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:47:15 [INFO]: [Cascade Manager] Opening diff zones for: UnitList.js[39m
+
+2025-04-25 21:47:15.855 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:47:15 [INFO]: [Cascade Manager] Opening diff zones for: TicketList.js[39m
+
+2025-04-25 21:47:15.872 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:47:15 [INFO]: [Cascade Manager] Opening diff zones for: TicketForm.js[39m
+
+2025-04-25 21:47:20.499 [error] AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1122:18)
+    at afterConnectMultiple (node:net:1689:7)
+2025-04-25 21:47:47.488 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:47:47 [INFO]: [Cascade Manager] Opening diff zones for: .env[39m
+
+2025-04-25 21:47:47.496 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:47:47 [INFO]: [Cascade Manager] Opening diff zones for: .env.production[39m
+
+2025-04-25 21:47:56.452 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:47:56 [INFO]: [Cascade Manager] Opening diff zones for: auth.js[39m
+
+2025-04-25 21:48:49.035 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:48:49 [INFO]: [Cascade Manager] Opening diff zones for: RegisterPage.js[39m
+
+2025-04-25 21:48:49.058 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:48:49 [INFO]: [Cascade Manager] Opening diff zones for: UserProfilePage.js[39m
+
+2025-04-25 21:48:49.101 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:48:49 [INFO]: [Cascade Manager] Opening diff zones for: DashboardPage.js[39m
+
+2025-04-25 21:48:49.190 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:48:49 [INFO]: [Cascade Manager] Opening diff zones for: PropertyList.js[39m
+
+2025-04-25 21:48:49.315 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:48:49 [INFO]: [Cascade Manager] Opening diff zones for: UnitList.js[39m
+
+2025-04-25 21:48:49.409 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:48:49 [INFO]: [Cascade Manager] Opening diff zones for: UnitForm.js[39m
+
+2025-04-25 21:48:49.516 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:48:49 [INFO]: [Cascade Manager] Opening diff zones for: TicketList.js[39m
+
+2025-04-25 21:48:49.636 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:48:49 [INFO]: [Cascade Manager] Opening diff zones for: TicketForm.js[39m
+
+2025-04-25 21:49:02.473 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:49:02 [INFO]: [Cascade Manager] Opening diff zones for: UserProfilePage.js[39m
+
+2025-04-25 21:49:17.556 [error] AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1122:18)
+    at afterConnectMultiple (node:net:1689:7)
+2025-04-25 21:49:17.560 [error] AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1122:18)
+    at afterConnectMultiple (node:net:1689:7)
+2025-04-25 21:49:17.818 [error] AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1122:18)
+    at afterConnectMultiple (node:net:1689:7)
+2025-04-25 21:50:03.692 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:50:03 [INFO]: [Cascade Manager] Opening diff zones for: netlify.toml[39m
+
+2025-04-25 21:50:03.698 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:50:03 [INFO]: [Cascade Manager] Opening diff zones for: .gitignore[39m
+
+2025-04-25 21:52:00.501 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:52:00 [INFO]: [Cascade Manager] Opening diff zones for: package.json[39m
+
+2025-04-25 21:55:35.773 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:55:35 [INFO]: [Cascade Manager] Opening diff zones for: README.md[39m
+
+2025-04-25 21:58:08.914 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 21:58:08 [INFO]: [Cascade Manager] Opening diff zones for: App.js[39m
+
+2025-04-25 22:04:04.644 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 22:04:04 [INFO]: [Cascade Manager] Opening diff zones for: index.html[39m
+
+2025-04-25 22:44:27.485 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 22:44:27 [INFO]: [Cascade Manager] Opening diff zones for: .env.production[39m
+
+2025-04-25 22:48:31.929 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 22:48:31 [INFO]: [Cascade Manager] Opening diff zones for: auth.js[39m
+
+2025-04-25 22:50:26.599 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 22:50:26 [INFO]: [Cascade Manager] Opening diff zones for: auth.js[39m
+
+2025-04-25 22:52:16.334 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 22:52:16 [INFO]: [Cascade Manager] Opening diff zones for: diagnostic.py[39m
+
+2025-04-25 22:52:23.328 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 22:52:23 [INFO]: [Cascade Manager] Opening diff zones for: main.py[39m
+
+2025-04-25 22:56:39.521 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 22:56:39 [INFO]: [Cascade Manager] Opening diff zones for: auth.py[39m
+
+2025-04-25 22:56:39.541 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 22:56:39 [INFO]: [Cascade Manager] Opening diff zones for: units.py[39m
+
+2025-04-25 22:56:39.574 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 22:56:39 [INFO]: [Cascade Manager] Opening diff zones for: requests.py[39m
+
+2025-04-25 22:56:39.634 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 22:56:39 [INFO]: [Cascade Manager] Opening diff zones for: diagnostic.py[39m
+
+2025-04-25 22:56:40.237 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 22:56:40 [INFO]: [Cascade Manager] Opening diff zones for: announcements.py[39m
+
+2025-04-25 22:57:12.960 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 22:57:12 [INFO]: [Cascade Manager] Opening diff zones for: deps.py[39m
+
+2025-04-25 22:57:38.550 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 22:57:38 [INFO]: [Cascade Manager] Opening diff zones for: database.py[39m
+
+2025-04-25 22:58:17.793 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 22:58:17 [INFO]: [Cascade Manager] Opening diff zones for: residents.py[39m
+
+2025-04-25 22:58:38.776 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 22:58:38 [INFO]: [Cascade Manager] Opening diff zones for: announcements.py[39m
+
+2025-04-25 23:03:45.187 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-25 23:03:45 [INFO]: [Cascade Manager] Opening diff zones for: main.py[39m
+
+2025-04-26 00:03:37.262 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 00:03:43.913 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 00:03:53.152 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 00:04:01.584 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 00:04:10.845 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 00:04:23.255 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 00:04:32.039 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 00:05:24.325 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-26 00:05:24 [INFO]: [Cascade Manager] Opening diff zones for: App.js[39m
+
+2025-04-26 00:06:34.436 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-26 00:06:34 [INFO]: [Cascade Manager] Opening diff zones for: main.py[39m
+
+2025-04-26 00:07:32.855 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-26 00:07:32 [INFO]: [Cascade Manager] Opening diff zones for: main.py[39m
+
+2025-04-26 00:07:33.418 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-26 00:07:33 [INFO]: [Cascade Manager] Opening diff zones for: auth.js[39m
+
+2025-04-26 00:09:05.425 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-26 00:09:05 [INFO]: [Cascade Manager] Opening diff zones for: main.py[39m
+
+2025-04-26 00:09:49.119 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-26 00:09:49 [INFO]: [Cascade Manager] Opening diff zones for: LoginPage.js[39m
+
+2025-04-26 00:09:49.168 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-26 00:09:49 [INFO]: [Cascade Manager] Opening diff zones for: RegisterPage.js[39m
+
+2025-04-26 00:09:49.464 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-26 00:09:49 [INFO]: [Cascade Manager] Opening diff zones for: DashboardPage.js[39m
+
+2025-04-26 00:10:13.539 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-26 00:10:13 [INFO]: [Cascade Manager] Opening diff zones for: LoginPage.js[39m
+
+2025-04-26 00:10:32.925 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-26 00:10:32 [INFO]: [Cascade Manager] Opening diff zones for: RegisterPage.js[39m
+
+2025-04-26 00:10:45.479 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-26 00:10:45 [INFO]: [Cascade Manager] Opening diff zones for: DashboardPage.js[39m
+
+2025-04-26 00:11:12.722 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-26 00:11:12 [INFO]: [Cascade Manager] Opening diff zones for: remoteLogger.js[39m
+
+2025-04-26 00:11:19.836 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-26 00:11:19 [INFO]: [Cascade Manager] Opening diff zones for: auth.js[39m
+
+2025-04-26 00:11:42.606 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-26 00:11:42 [INFO]: [Cascade Manager] Opening diff zones for: main.py[39m
+
+2025-04-26 00:12:09.759 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-26 00:12:09 [INFO]: [Cascade Manager] Opening diff zones for: TicketsPage.js[39m
+
+2025-04-26 00:12:11.554 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-26 00:12:11 [INFO]: [Cascade Manager] Opening diff zones for: NotFoundPage.js[39m
+
+2025-04-26 00:12:12.580 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-26 00:12:12 [INFO]: [Cascade Manager] Opening diff zones for: UserProfilePage.js[39m
+
+2025-04-26 00:12:13.777 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-26 00:12:13 [INFO]: [Cascade Manager] Opening diff zones for: PropertiesPage.js[39m
+
+2025-04-26 00:12:22.511 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-26 00:12:22 [INFO]: [Cascade Manager] Opening diff zones for: NotFoundPage.js[39m
+
+2025-04-26 00:15:07.829 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-26 00:15:07 [INFO]: [Cascade Manager] Opening diff zones for: auth.js[39m
+
+2025-04-26 00:17:57.450 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> [32m(Windsurf) 2025-04-26 00:17:57 [INFO]: [Cascade Manager] Opening diff zones for: auth.js[39m
+
+2025-04-26 02:20:01.019 [info] [127.0.0.1][77d76977][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-04-26 05:20:05.319 [info] [127.0.0.1][77d76977][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+2025-04-26 05:37:39.478 [info] [127.0.0.1][10cc7325][ExtensionHostConnection] <10773> Extension Host Process exited with code: 0, signal: null.
+2025-04-26 05:37:39.478 [info] Last EH closed, waiting before shutting down
+2025-04-26 05:42:39.478 [info] Last EH closed, shutting down

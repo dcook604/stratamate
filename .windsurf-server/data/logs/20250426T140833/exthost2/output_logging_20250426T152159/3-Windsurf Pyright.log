@@ -1,0 +1,17 @@
+[Info  - 3:22:08 PM] windsurfPyright language server 1.28.0 starting
+[Info  - 3:22:08 PM] Server root directory: file:///home/windsurf/.windsurf-server/extensions/codeium.windsurfpyright-1.28.0-universal/dist
+[Info  - 3:22:08 PM] Starting service instance "windsurf"
+Received pythonPath from Python extension: /bin/python
+[Info  - 3:22:08 PM] Setting pythonPath for service "windsurf": "/bin/python"
+[Info  - 3:22:08 PM] No include entries specified; assuming /home/windsurf
+[Info  - 3:22:08 PM] Auto-excluding **/node_modules
+[Info  - 3:22:08 PM] Auto-excluding **/__pycache__
+[Info  - 3:22:08 PM] Auto-excluding **/.*
+[Info  - 3:22:08 PM] Assuming Python version 3.10.12.final.0
+[Info  - 3:22:09 PM] Found 13 source files
+[Info  - 3:22:09 PM] Background analysis(1) root directory: file:///home/windsurf/.windsurf-server/extensions/codeium.windsurfpyright-1.28.0-universal/dist
+[Info  - 3:22:09 PM] Background analysis(1) started
+[Info  - 3:22:12 PM] [BG(1)] Long operation: checking: file:///home/windsurf/backend/database.py (2356ms)
+[Info  - 3:22:12 PM] [BG(1)] Long operation: analyzing: file:///home/windsurf/backend/database.py (2389ms)
+[Info  - 3:22:16 PM] [BG(1)] Long operation: checking: file:///home/windsurf/backend/deps.py (4079ms)
+[Info  - 3:22:16 PM] [BG(1)] Long operation: analyzing: file:///home/windsurf/backend/deps.py (4089ms)

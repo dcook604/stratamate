@@ -1,0 +1,120 @@
+2025-04-26 14:08:35.018 [info] 
+
+
+
+
+2025-04-26 14:08:35.040 [info] Extension host agent started.
+2025-04-26 14:09:28.009 [info] [127.0.0.1][2993b055][ManagementConnection] New connection established.
+2025-04-26 14:09:28.093 [info] [127.0.0.1][8a208007][ExtensionHostConnection] New connection established.
+2025-04-26 14:09:28.426 [info] [127.0.0.1][8a208007][ExtensionHostConnection] <5328> Launched Extension Host Process.
+2025-04-26 14:09:42.211 [info] [127.0.0.1][8a208007][ExtensionHostConnection] <5328> [32m(Windsurf) 2025-04-26 14:09:42 [INFO]: Language server started[39m
+
+2025-04-26 14:09:42.528 [info] [127.0.0.1][8a208007][ExtensionHostConnection] <5328> [32m(Windsurf) 2025-04-26 14:09:42 [INFO]: LS lspClient started successfully[39m
+
+2025-04-26 14:13:35.043 [info] New EH opened, aborting shutdown
+2025-04-26 14:13:45.790 [info] [127.0.0.1][8a208007][ExtensionHostConnection] <5328> [32m(Windsurf) 2025-04-26 14:13:45 [INFO]: [Cascade Manager] Opening diff zones for: [39m
+
+2025-04-26 14:14:23.166 [info] [127.0.0.1][8a208007][ExtensionHostConnection] <5328> [32m(Windsurf) 2025-04-26 14:14:23 [INFO]: [Cascade Manager] Opening diff zones for: netlify.toml[39m
+
+2025-04-26 14:14:23.172 [info] [127.0.0.1][8a208007][ExtensionHostConnection] <5328> [32m(Windsurf) 2025-04-26 14:14:23 [INFO]: [Cascade Manager] Opening diff zones for: .gitignore[39m
+
+2025-04-26 14:16:34.941 [info] [127.0.0.1][8a208007][ExtensionHostConnection] <5328> [32m(Windsurf) 2025-04-26 14:16:34 [INFO]: [Cascade Manager] Opening diff zones for: .env.production[39m
+
+2025-04-26 14:19:31.597 [info] [127.0.0.1][8a208007][ExtensionHostConnection] <5328> [32m(Windsurf) 2025-04-26 14:19:31 [INFO]: [Cascade Manager] Opening diff zones for: PropertiesPage.js[39m
+
+2025-04-26 14:20:59.463 [info] [127.0.0.1][8a208007][ExtensionHostConnection] <5328> [32m(Windsurf) 2025-04-26 14:20:59 [INFO]: [Cascade Manager] Opening diff zones for: PropertiesPage.js[39m
+
+2025-04-26 14:26:50.067 [info] [127.0.0.1][8a208007][ExtensionHostConnection] <5328> [32m(Windsurf) 2025-04-26 14:26:50 [INFO]: [Cascade Manager] Opening diff zones for: main.py[39m
+
+2025-04-26 14:58:28.060 [info] [127.0.0.1][8a208007][ExtensionHostConnection] <5328> [32m(Windsurf) 2025-04-26 14:58:28 [INFO]: [Cascade Manager] Opening diff zones for: App.js[39m
+
+2025-04-26 14:59:06.639 [info] [127.0.0.1][8a208007][ExtensionHostConnection] <5328> [32m(Windsurf) 2025-04-26 14:59:06 [INFO]: [Cascade Manager] Opening diff zones for: PropertiesPage.js[39m
+
+2025-04-26 14:59:06.729 [info] [127.0.0.1][8a208007][ExtensionHostConnection] <5328> [32m(Windsurf) 2025-04-26 14:59:06 [INFO]: [Cascade Manager] Opening diff zones for: UserProfilePage.js[39m
+
+2025-04-26 14:59:21.925 [info] [127.0.0.1][8a208007][ExtensionHostConnection] <5328> [32m(Windsurf) 2025-04-26 14:59:21 [INFO]: [Cascade Manager] Opening diff zones for: PropertiesPage.js[39m
+
+2025-04-26 14:59:52.254 [info] [127.0.0.1][8a208007][ExtensionHostConnection] <5328> [32m(Windsurf) 2025-04-26 14:59:52 [INFO]: [Cascade Manager] Opening diff zones for: UserProfilePage.js[39m
+
+2025-04-26 15:00:10.578 [info] [127.0.0.1][8a208007][ExtensionHostConnection] <5328> [32m(Windsurf) 2025-04-26 15:00:10 [INFO]: [Cascade Manager] Opening diff zones for: UserProfilePage.js[39m
+
+2025-04-26 15:05:49.676 [info] [127.0.0.1][8a208007][ExtensionHostConnection] <5328> [32m(Windsurf) 2025-04-26 15:05:49 [INFO]: [Cascade Manager] Opening diff zones for: PropertiesPage.js, App.js, UserProfilePage.js[39m
+
+2025-04-26 15:11:21.990 [info] [127.0.0.1][8a208007][ExtensionHostConnection] <5328> [32m(Windsurf) 2025-04-26 15:11:21 [INFO]: [Cascade Manager] Opening diff zones for: productContext.md[39m
+
+2025-04-26 15:11:55.985 [info] [127.0.0.1][8a208007][ExtensionHostConnection] <5328> [32m(Windsurf) 2025-04-26 15:11:55 [INFO]: [Cascade Manager] Opening diff zones for: App.js[39m
+
+2025-04-26 15:21:35.704 [info] [127.0.0.1][2993b055][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-04-26 15:21:35.960 [info] [127.0.0.1][8a208007][ExtensionHostConnection] <5328> Extension Host Process exited with code: 0, signal: null.
+2025-04-26 15:21:35.960 [info] Last EH closed, waiting before shutting down
+2025-04-26 15:21:58.233 [info] [127.0.0.1][b4bac40a][ManagementConnection] New connection established.
+2025-04-26 15:21:58.346 [info] [127.0.0.1][b1091f7b][ExtensionHostConnection] New connection established.
+2025-04-26 15:21:58.350 [info] [127.0.0.1][b1091f7b][ExtensionHostConnection] <37020> Launched Extension Host Process.
+2025-04-26 15:22:03.701 [info] [127.0.0.1][b1091f7b][ExtensionHostConnection] <37020> [32m(Windsurf) 2025-04-26 15:22:03 [INFO]: Language server started[39m
+
+2025-04-26 15:22:04.073 [info] [127.0.0.1][b1091f7b][ExtensionHostConnection] <37020> [32m(Windsurf) 2025-04-26 15:22:04 [INFO]: LS lspClient started successfully[39m
+
+2025-04-26 15:22:22.512 [info] [127.0.0.1][b1091f7b][ExtensionHostConnection] <37020> [32m(Windsurf) 2025-04-26 15:22:22 [INFO]: [Cascade Manager] Opening diff zones for: [39m
+
+2025-04-26 15:23:38.887 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:23:48.986 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:23:55.864 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:24:02.426 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:24:07.428 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:24:18.405 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:24:26.009 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:24:35.789 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:24:44.787 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:24:49.788 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:24:56.129 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:25:01.130 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:25:11.172 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:25:16.174 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:25:41.826 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:25:46.827 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:25:58.648 [info] [127.0.0.1][b1091f7b][ExtensionHostConnection] The client has reconnected.
+2025-04-26 15:26:03.672 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:26:08.674 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:26:29.586 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:26:34.587 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:26:35.962 [info] New EH opened, aborting shutdown
+2025-04-26 15:26:40.790 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:26:45.793 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:27:04.308 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:27:09.310 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:27:32.674 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:27:37.700 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:27:44.244 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:27:54.801 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:27:59.801 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:28:15.783 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:28:20.783 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:28:29.120 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:28:34.511 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:28:49.376 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:28:54.376 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:29:08.508 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:29:13.508 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:29:19.716 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:29:30.514 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:29:35.514 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:29:50.057 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:29:55.058 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:30:03.528 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:30:09.213 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:30:22.935 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:30:27.935 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:30:40.841 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:30:45.841 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:30:57.110 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:31:02.111 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:31:34.237 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:31:39.246 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:31:49.986 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:31:54.987 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:32:13.285 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:32:18.287 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:32:27.911 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:43:56.957 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:44:04.480 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:44:11.856 [warning] No ptyHost heartbeat after 6 seconds

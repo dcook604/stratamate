@@ -1,0 +1,23 @@
+2025-04-26 15:22:02.721 [info] 2025/04/26 15:22:02 maxprocs: Leaving GOMAXPROCS=4: CPU quota undefined
+2025-04-26 15:22:02.918 [info] I0426 15:22:02.917788 37368 main.go:582] Setting GOMAXPROCS to 4
+2025-04-26 15:22:02.927 [info] I0426 15:22:02.927475 37368 main.go:797] Starting language server process with pid 37368
+2025-04-26 15:22:02.927 [info] I0426 15:22:02.927687 37368 server.go:260] Language server will attempt to listen on host 127.0.0.1
+2025-04-26 15:22:02.927 [info] I0426 15:22:02.927852 37368 server.go:267] Language server listening on random port at 35596
+2025-04-26 15:22:03.081 [info] I0426 15:22:03.080981 37368 server.go:378] Created extension server client at port 36234
+2025-04-26 15:22:03.651 [info] I0426 15:22:03.651202 37368 server.go:887] Local search is enabled, will index local files.
+2025-04-26 15:22:03.651 [info] I0426 15:22:03.651541 37368 server.go:891] Using 1 indexer workers
+2025-04-26 15:22:03.706 [info] (Windsurf) 2025-04-26 15:22:03.701 [INFO]: Language server started
+2025-04-26 15:22:04.060 [info] (Windsurf) 2025-04-26 15:22:04.060 [INFO]: LS lspClient started successfully
+2025-04-26 15:22:22.512 [info] (Windsurf) 2025-04-26 15:22:22.512 [INFO]: [Cascade Manager] Opening diff zones for: 
+2025-04-26 15:26:25.871 [info] W0426 15:26:25.529372 37368 workspace_manager.go:480] Too many changes in DidChangeWatchedFiles: 1273
+2025-04-26 15:26:41.949 [info] W0426 15:26:31.636301 37368 workspace_manager.go:480] Too many changes in DidChangeWatchedFiles: 1520
+2025-04-26 15:27:11.231 [info] W0426 15:27:10.668394 37368 workspace_manager.go:480] Too many changes in DidChangeWatchedFiles: 1314
+2025-04-26 15:27:33.822 [info] W0426 15:27:21.577338 37368 workspace_manager.go:480] Too many changes in DidChangeWatchedFiles: 1304
+2025-04-26 15:27:46.435 [info] W0426 15:27:46.433677 37368 workspace_manager.go:480] Too many changes in DidChangeWatchedFiles: 1581
+2025-04-26 15:27:55.963 [info] W0426 15:27:55.841302 37368 workspace_manager.go:480] Too many changes in DidChangeWatchedFiles: 1814
+2025-04-26 15:30:10.704 [info] W0426 15:30:10.362606 37368 workspace_manager.go:480] Too many changes in DidChangeWatchedFiles: 1500
+2025-04-26 15:31:57.491 [info] W0426 15:31:57.445943 37368 workspace_manager.go:480] Too many changes in DidChangeWatchedFiles: 1500
+2025-04-26 15:32:29.352 [info] W0426 15:32:29.346630 37368 workspace_manager.go:480] Too many changes in DidChangeWatchedFiles: 1500
+2025-04-26 15:32:33.300 [info] W0426 15:32:31.633908 37368 workspace_manager.go:480] Too many changes in DidChangeWatchedFiles: 33000
+2025-04-26 15:32:39.526 [info] W0426 15:32:39.519466 37368 workspace_manager.go:480] Too many changes in DidChangeWatchedFiles: 1500
+2025-04-26 15:32:44.484 [info] W0426 15:32:41.416892 37368 workspace_manager.go:480] Too many changes in DidChangeWatchedFiles: 2000

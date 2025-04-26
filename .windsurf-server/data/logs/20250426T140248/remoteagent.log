@@ -1,0 +1,13 @@
+2025-04-26 14:02:49.187 [info] 
+
+
+
+
+2025-04-26 14:02:49.187 [info] Extension host agent started.
+2025-04-26 14:02:58.899 [info] [127.0.0.1][0c478913][ManagementConnection] New connection established.
+2025-04-26 14:02:58.959 [info] [127.0.0.1][b0d21ea9][ExtensionHostConnection] New connection established.
+2025-04-26 14:02:59.392 [info] [127.0.0.1][b0d21ea9][ExtensionHostConnection] <238504> Launched Extension Host Process.
+2025-04-26 14:03:13.920 [info] [127.0.0.1][b0d21ea9][ExtensionHostConnection] <238504> [32m(Windsurf) 2025-04-26 14:03:13 [INFO]: Language server started[39m
+
+2025-04-26 14:03:14.527 [info] [127.0.0.1][b0d21ea9][ExtensionHostConnection] <238504> [32m(Windsurf) 2025-04-26 14:03:14 [INFO]: LS lspClient started successfully[39m
+

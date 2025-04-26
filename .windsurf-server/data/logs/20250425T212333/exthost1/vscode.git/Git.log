@@ -1,0 +1,23 @@
+2025-04-25 21:23:48.949 [info] [main] Log level: Info
+2025-04-25 21:23:48.949 [info] [main] Validating found git in: "git"
+2025-04-25 21:23:48.949 [info] [main] Using git "2.34.1" from "git"
+2025-04-25 21:23:48.950 [info] [Model][doInitialScan] Initial repository scan started
+2025-04-25 21:23:49.081 [info] > git rev-parse --show-toplevel [142ms]
+2025-04-25 21:23:49.081 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-25 21:23:49.086 [info] > git rev-parse --show-toplevel [2ms]
+2025-04-25 21:23:49.086 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-25 21:23:49.628 [info] > git rev-parse --show-toplevel [2ms]
+2025-04-25 21:23:49.628 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-25 21:23:49.636 [info] > git rev-parse --show-toplevel [3ms]
+2025-04-25 21:23:49.636 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-25 21:23:49.906 [info] > git rev-parse --show-toplevel [7ms]
+2025-04-25 21:23:49.906 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-25 21:23:49.911 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-04-25 21:24:55.301 [info] > git rev-parse --show-toplevel [3ms]
+2025-04-25 21:24:55.301 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-25 21:25:27.907 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/windsurf/.windsurf-server/extensions/.9b2856df-ece2-4adc-a4d6-46ae6dbc2ddd/bundled/libs/debugpy/_vendored/pydevd/_pydevd_frame_eval/". Error:Error: ENOENT: no such file or directory, realpath '/home/windsurf/.windsurf-server/extensions/.9b2856df-ece2-4adc-a4d6-46ae6dbc2ddd/bundled/libs/debugpy/_vendored/pydevd/_pydevd_frame_eval/'
+2025-04-25 21:25:28.443 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/windsurf/.windsurf-server/extensions/.9b2856df-ece2-4adc-a4d6-46ae6dbc2ddd/bundled/libs/debugpy/_vendored/pydevd/pydevd_attach_to_process/linux_and_mac/". Error:Error: ENOENT: no such file or directory, realpath '/home/windsurf/.windsurf-server/extensions/.9b2856df-ece2-4adc-a4d6-46ae6dbc2ddd/bundled/libs/debugpy/_vendored/pydevd/pydevd_attach_to_process/linux_and_mac/'
+2025-04-25 21:25:29.294 [info] > git rev-parse --show-toplevel [2ms]
+2025-04-25 21:25:29.294 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-25 21:25:37.268 [info] > git rev-parse --show-toplevel [4ms]
+2025-04-25 21:25:37.268 [info] fatal: not a git repository (or any of the parent directories): .git

@@ -1,0 +1,8 @@
+2025-04-26 14:03:19.010 [info] Experiment 'pythonaacf' is active
+2025-04-26 14:03:19.010 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-04-26 14:03:19.010 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-04-26 14:03:19.010 [warning] Dir "/home/windsurf/.pixi/envs" is not watchable (directory does not exist)
+2025-04-26 14:03:19.010 [info] Python interpreter path: /bin/python
+2025-04-26 14:03:20.212 [info] > pyenv which python
+2025-04-26 14:03:20.212 [info] cwd: .
+2025-04-26 14:03:21.097 [info] Editor support is inactive since language server is set to None.

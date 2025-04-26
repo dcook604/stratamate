@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "dependencies": {
+    "types-registry": "^0.1.717"
+  },
+  "devDependencies": {
+    "@types/debug": "^4.1.12",
+    "@types/jsdom": "^21.1.7",
+    "@types/less": "^3.0.8",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "@types/stylus": "^0.48.43"
+  }
+}

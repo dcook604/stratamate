@@ -1,0 +1,3 @@
+[build]
+  command = "echo 'Backend is deployed as a Docker service.'"
+  publish = "."

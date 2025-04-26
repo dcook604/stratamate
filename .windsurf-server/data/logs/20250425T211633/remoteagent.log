@@ -1,0 +1,31 @@
+2025-04-25 21:16:33.611 [info] 
+
+
+
+
+2025-04-25 21:16:33.633 [info] Extension host agent started.
+2025-04-25 21:16:33.727 [info] Started initializing default profile extensions in extensions installation folder. file:///home/windsurf/.windsurf-server/extensions
+2025-04-25 21:16:34.270 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/windsurf/.windsurf-server/extensions
+2025-04-25 21:16:35.931 [info] [127.0.0.1][22510a40][ManagementConnection] New connection established.
+2025-04-25 21:16:36.022 [info] [127.0.0.1][9dd7645e][ExtensionHostConnection] New connection established.
+2025-04-25 21:16:46.400 [info] [127.0.0.1][9dd7645e][ExtensionHostConnection] <37029> Launched Extension Host Process.
+2025-04-25 21:17:11.898 [info] [127.0.0.1][22510a40][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-04-25 21:17:41.565 [info] [127.0.0.1][9dd7645e][ExtensionHostConnection] <37029> [31m(Windsurf) 2025-04-25 21:17:41 [ERROR]: LS startLanguageServer error: Canceled[39m
+
+2025-04-25 21:17:41.730 [info] [127.0.0.1][9dd7645e][ExtensionHostConnection] <37029> Extension Host Process exited with code: 0, signal: null.
+2025-04-25 21:17:41.731 [info] Cancelling previous shutdown timeout
+2025-04-25 21:17:41.731 [info] Last EH closed, waiting before shutting down
+2025-04-25 21:17:49.407 [info] [127.0.0.1][9d0943c7][ManagementConnection] New connection established.
+2025-04-25 21:17:49.540 [info] [127.0.0.1][0502fc0b][ExtensionHostConnection] New connection established.
+2025-04-25 21:17:51.064 [info] [127.0.0.1][0502fc0b][ExtensionHostConnection] <37250> Launched Extension Host Process.
+2025-04-25 21:18:41.009 [info] [127.0.0.1][0502fc0b][ExtensionHostConnection] The client has reconnected.
+2025-04-25 21:19:08.129 [info] [127.0.0.1][0502fc0b][ExtensionHostConnection] <37250> [32m(Windsurf) 2025-04-25 21:19:08 [INFO]: Language server started[39m
+
+2025-04-25 21:19:09.042 [error] No ptyHost response to createProcess after 5 seconds
+2025-04-25 21:19:09.093 [info] [127.0.0.1][0502fc0b][ExtensionHostConnection] <37250> [32m(Windsurf) 2025-04-25 21:19:09 [INFO]: LS lspClient started successfully[39m
+
+2025-04-25 21:19:33.608 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-25 21:19:37.081 [info] [127.0.0.1][9d0943c7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-04-25 21:19:37.237 [info] [127.0.0.1][0502fc0b][ExtensionHostConnection] <37250> Extension Host Process exited with code: 0, signal: null.
+2025-04-25 21:19:37.237 [info] Cancelling previous shutdown timeout
+2025-04-25 21:19:37.237 [info] Last EH closed, waiting before shutting down

@@ -1,0 +1,35 @@
+2025-04-26 15:46:23.627 [info] Experiment 'pythonaacf' is active
+2025-04-26 15:46:23.627 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-04-26 15:46:23.627 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-04-26 15:46:23.627 [warning] Dir "/home/windsurf/.pixi/envs" is not watchable (directory does not exist)
+2025-04-26 15:46:23.996 [info] Python interpreter path: /bin/python
+2025-04-26 15:46:24.617 [info] > pyenv which python
+2025-04-26 15:46:24.617 [info] cwd: .
+2025-04-26 15:46:25.293 [info] Editor support is inactive since language server is set to None.
+2025-04-26 15:46:26.014 [info] Discover tests for workspace name: undefined - uri: c:/Users/danie/AppData/Roaming/Windsurf/User/settings.json
+2025-04-26 15:52:23.548 [info] Send text to terminal: 
+2025-04-26 15:55:56.824 [info] Send text to terminal: npm run dev
+2025-04-26 16:01:50.843 [info] Discover tests for workspace name: windsurf - uri: /home/windsurf/frontend/node_modules/detect-port-alt/.vscode/settings.json
+2025-04-26 16:48:36.490 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.10.12 (main, Feb  4 2025, 14:57:36) [GCC 11.4.0]',
+  version: {
+    raw: '3.10.12',
+    major: 3,
+    minor: 10,
+    patch: 12,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.10.12 64-bit',
+  detailedDisplayName: 'Python 3.10.12 64-bit',
+  type: undefined
+} /home/windsurf/.windsurf-server/extensions/ms-python.python-2025.4.0-universal/python_files/installed_check.py /home/windsurf/backend/requirements.txt
+2025-04-26 16:48:36.490 [info] > /bin/python ./.windsurf-server/extensions/ms-python.python-2025.4.0-universal/python_files/installed_check.py ./backend/requirements.txt
+2025-04-26 16:52:16.229 [info] Send text to terminal: pgloader /home/windsurf/backend/condo_lite.db postgresql://user:password@host:port/dbname

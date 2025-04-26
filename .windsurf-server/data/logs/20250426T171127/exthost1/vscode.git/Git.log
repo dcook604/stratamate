@@ -1,0 +1,77 @@
+2025-04-26 17:11:33.235 [info] [main] Log level: Info
+2025-04-26 17:11:33.235 [info] [main] Validating found git in: "git"
+2025-04-26 17:11:33.235 [info] [main] Using git "2.34.1" from "git"
+2025-04-26 17:11:33.235 [info] [Model][doInitialScan] Initial repository scan started
+2025-04-26 17:11:33.253 [info] > git rev-parse --show-toplevel [28ms]
+2025-04-26 17:11:33.253 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-26 17:11:33.271 [info] > git rev-parse --show-toplevel [14ms]
+2025-04-26 17:11:33.271 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-26 17:11:33.283 [info] > git rev-parse --show-toplevel [7ms]
+2025-04-26 17:11:33.283 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-26 17:11:33.289 [info] > git rev-parse --show-toplevel [2ms]
+2025-04-26 17:11:33.289 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-26 17:11:33.294 [info] > git rev-parse --show-toplevel [2ms]
+2025-04-26 17:11:33.294 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-26 17:11:33.299 [info] > git rev-parse --show-toplevel [1ms]
+2025-04-26 17:11:33.299 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-26 17:11:33.304 [info] > git rev-parse --show-toplevel [2ms]
+2025-04-26 17:11:33.304 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-26 17:11:33.771 [info] > git rev-parse --show-toplevel [464ms]
+2025-04-26 17:11:34.037 [info] > git rev-parse --git-dir --git-common-dir [257ms]
+2025-04-26 17:11:34.052 [info] [Model][openRepository] Opened repository: /home/windsurf/.nvm
+2025-04-26 17:11:34.070 [info] > git rev-parse --show-toplevel [3ms]
+2025-04-26 17:11:34.070 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-26 17:11:34.081 [info] > git rev-parse --show-toplevel [5ms]
+2025-04-26 17:11:34.081 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-26 17:11:34.087 [info] > git config --get commit.template [23ms]
+2025-04-26 17:11:34.100 [info] > git rev-parse --show-toplevel [10ms]
+2025-04-26 17:11:34.100 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-26 17:11:34.118 [info] > git rev-parse --show-toplevel [8ms]
+2025-04-26 17:11:34.119 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-26 17:11:34.173 [info] > git rev-parse --show-toplevel [51ms]
+2025-04-26 17:11:34.173 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-26 17:11:34.177 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-04-26 17:11:34.225 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [145ms]
+2025-04-26 17:11:34.355 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [119ms]
+2025-04-26 17:11:34.401 [info] > git status -z -uall [169ms]
+2025-04-26 17:11:34.635 [info] > git config --get commit.template [5ms]
+2025-04-26 17:11:34.636 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [2ms]
+2025-04-26 17:11:34.645 [info] > git status -z -uall [5ms]
+2025-04-26 17:11:34.645 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-04-26 17:11:34.715 [info] > git check-ignore -v -z --stdin [1ms]
+2025-04-26 17:20:42.935 [info] > git rev-parse --show-toplevel [241ms]
+2025-04-26 17:20:42.935 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-26 17:23:50.974 [info] > git rev-parse --show-toplevel [2ms]
+2025-04-26 17:23:50.980 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2025-04-26 17:23:50.991 [info] [Model][openRepository] Opened repository: /home/windsurf
+2025-04-26 17:23:51.002 [info] [Git][getRemotes] No remotes found in the git config file
+2025-04-26 17:23:51.009 [info] > git config --get commit.template [12ms]
+2025-04-26 17:23:51.010 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2025-04-26 17:23:51.011 [warning] [Git][getBranch] No such branch: master
+2025-04-26 17:23:51.021 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-04-26 17:23:51.522 [info] > git status -z -uall [507ms] (cancelled)
+2025-04-26 17:23:53.449 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1932ms]
+2025-04-26 17:23:53.449 [warning] [Git][getBranch] No such branch: master
+2025-04-26 17:23:53.450 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2025-04-26 17:23:53.475 [info] > git check-ignore -v -z --stdin [10ms]
+2025-04-26 17:23:53.476 [info] > git config --get commit.template [28ms]
+2025-04-26 17:23:53.482 [info] [Git][getRemotes] No remotes found in the git config file
+2025-04-26 17:23:53.489 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2025-04-26 17:23:53.489 [warning] [Git][getBranch] No such branch: master
+2025-04-26 17:23:53.501 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-04-26 17:23:53.502 [info] > git check-ignore -v -z --stdin [32ms]
+2025-04-26 17:23:53.907 [info] > git status -z -uall [414ms] (cancelled)
+2025-04-26 17:23:55.905 [info] > git show --textconv :memory-bank/productContext.md [9ms]
+2025-04-26 17:23:55.912 [info] > git ls-files --stage -- /home/windsurf/memory-bank/productContext.md [8ms]
+2025-04-26 17:23:55.921 [info] > git hash-object -t tree /dev/null [10ms]
+2025-04-26 17:23:55.922 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/windsurf/memory-bank/productContext.md.git?%7B%22path%22%3A%22%2Fhome%2Fwindsurf%2Fmemory-bank%2FproductContext.md%22%2C%22ref%22%3A%22%22%7D
+2025-04-26 17:23:55.927 [info] > git hash-object -t tree /dev/null [7ms]
+2025-04-26 17:23:55.927 [warning] [GitFileSystemProvider][stat] File not found - git:/home/windsurf/memory-bank/productContext.md.git?%7B%22path%22%3A%22%2Fhome%2Fwindsurf%2Fmemory-bank%2FproductContext.md%22%2C%22ref%22%3A%22%22%7D
+2025-04-26 17:24:28.987 [info] > git config --get commit.template [6ms]
+2025-04-26 17:24:28.988 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-04-26 17:24:28.988 [warning] [Git][getBranch] No such branch: main
+2025-04-26 17:24:29.004 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2025-04-26 17:24:31.452 [info] > git status -z -uall [2459ms] (cancelled)
+2025-04-26 17:24:31.452 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2065ms]
+2025-04-26 17:24:31.452 [warning] [Git][getBranch] No such branch: main
+2025-04-26 17:24:31.453 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.

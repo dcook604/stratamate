@@ -1,0 +1,16 @@
+2025-04-26 17:03:32.677 [info] 
+
+
+
+
+2025-04-26 17:03:32.677 [error] Error: Unable to retrieve mac address (unexpected format)
+    at __ (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/server-main.js:71:47181)
+    at T_ (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/server-main.js:71:47558)
+    at async file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/server-main.js:71:47475
+    at async Promise.all (index 2)
+    at async CU (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/server-main.js:180:417)
+    at async qU (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/server-main.js:181:1151)
+    at async file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/server-main.js:213:2493
+    at async Server.<anonymous> (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/server-main.js:222:87)
+2025-04-26 17:03:32.677 [info] Extension host agent started.
+2025-04-26 17:08:32.636 [info] Last EH closed, shutting down

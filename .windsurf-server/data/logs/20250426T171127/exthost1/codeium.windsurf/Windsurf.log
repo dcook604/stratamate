@@ -1,0 +1,12 @@
+2025-04-26 17:11:36.616 [info] 2025/04/26 17:11:36 maxprocs: Leaving GOMAXPROCS=4: CPU quota undefined
+2025-04-26 17:11:37.795 [info] I0426 17:11:37.795578  7941 main.go:582] Setting GOMAXPROCS to 4
+2025-04-26 17:11:37.805 [info] I0426 17:11:37.805154  7941 main.go:797] Starting language server process with pid 7941
+2025-04-26 17:11:37.817 [info] I0426 17:11:37.810016  7941 server.go:260] Language server will attempt to listen on host 127.0.0.1
+2025-04-26 17:11:37.818 [info] I0426 17:11:37.817822  7941 server.go:267] Language server listening on random port at 44275
+2025-04-26 17:11:37.988 [info] I0426 17:11:37.988086  7941 server.go:378] Created extension server client at port 35970
+2025-04-26 17:11:41.077 [info] I0426 17:11:41.077357  7941 server.go:887] Local search is enabled, will index local files.
+2025-04-26 17:11:41.077 [info] I0426 17:11:41.077744  7941 server.go:891] Using 1 indexer workers
+2025-04-26 17:11:41.493 [info] (Windsurf) 2025-04-26 17:11:41.485 [INFO]: Language server started
+2025-04-26 17:11:42.149 [info] (Windsurf) 2025-04-26 17:11:42.149 [INFO]: LS lspClient started successfully
+2025-04-26 17:11:53.750 [info] (Windsurf) 2025-04-26 17:11:53.750 [INFO]: [Cascade Manager] Opening diff zones for: 
+2025-04-26 17:18:12.444 [info] (Windsurf) 2025-04-26 17:18:12.444 [INFO]: [Cascade Manager] Opening diff zones for: database.py

@@ -1,0 +1,110 @@
+2025-04-26 15:45:09.035 [info] 
+
+
+
+
+2025-04-26 15:45:09.035 [error] Error: Unable to retrieve mac address (unexpected format)
+    at __ (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/server-main.js:71:47181)
+    at T_ (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/server-main.js:71:47558)
+    at async file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/server-main.js:71:47475
+    at async Promise.all (index 2)
+    at async CU (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/server-main.js:180:417)
+    at async qU (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/server-main.js:181:1151)
+    at async file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/server-main.js:213:2493
+    at async Server.<anonymous> (file:///home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/out/server-main.js:222:87)
+2025-04-26 15:45:09.035 [info] Extension host agent started.
+2025-04-26 15:46:07.165 [info] [127.0.0.1][b53c7890][ManagementConnection] New connection established.
+2025-04-26 15:46:07.271 [info] [127.0.0.1][3517e490][ExtensionHostConnection] New connection established.
+2025-04-26 15:46:07.598 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> Launched Extension Host Process.
+2025-04-26 15:46:19.889 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:46:19 [INFO]: Language server started[39m
+
+2025-04-26 15:46:20.392 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:46:20 [INFO]: LS lspClient started successfully[39m
+
+2025-04-26 15:46:38.351 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:46:38 [INFO]: [Cascade Manager] Opening diff zones for: [39m
+
+2025-04-26 15:47:55.597 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:47:55 [INFO]: [Cascade Manager] Opening diff zones for: package.json[39m
+
+2025-04-26 15:48:31.087 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:48:31 [INFO]: [Cascade Manager] Opening diff zones for: package.json[39m
+
+2025-04-26 15:49:09.106 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:49:09 [INFO]: [Cascade Manager] Opening diff zones for: package.json[39m
+
+2025-04-26 15:50:09.015 [info] New EH opened, aborting shutdown
+2025-04-26 15:52:57.641 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:53:07.191 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:54:13.180 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:54:13 [INFO]: [Cascade Manager] Opening diff zones for: vite.config.js[39m
+
+2025-04-26 15:54:23.660 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:54:23 [INFO]: [Cascade Manager] Opening diff zones for: package.json[39m
+
+2025-04-26 15:54:30.284 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:54:30 [INFO]: [Cascade Manager] Opening diff zones for: package.json[39m
+
+2025-04-26 15:54:44.982 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:54:44 [INFO]: [Cascade Manager] Opening diff zones for: index.html[39m
+
+2025-04-26 15:55:29.491 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:55:29 [INFO]: [Cascade Manager] Opening diff zones for: auth.js[39m
+
+2025-04-26 15:55:29.528 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:55:29 [INFO]: [Cascade Manager] Opening diff zones for: remoteLogger.js[39m
+
+2025-04-26 15:55:29.615 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:55:29 [INFO]: [Cascade Manager] Opening diff zones for: DashboardPage.js[39m
+
+2025-04-26 15:55:29.654 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:55:29 [INFO]: [Cascade Manager] Opening diff zones for: RegisterPage.js[39m
+
+2025-04-26 15:55:29.704 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:55:29 [INFO]: [Cascade Manager] Opening diff zones for: UserProfilePage.js[39m
+
+2025-04-26 15:55:29.828 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:55:29 [INFO]: [Cascade Manager] Opening diff zones for: UnitForm.js[39m
+
+2025-04-26 15:55:29.985 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:55:29 [INFO]: [Cascade Manager] Opening diff zones for: PropertyList.js[39m
+
+2025-04-26 15:55:30.057 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:55:30 [INFO]: [Cascade Manager] Opening diff zones for: TicketForm.js[39m
+
+2025-04-26 15:55:30.276 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:55:30 [INFO]: [Cascade Manager] Opening diff zones for: UnitList.js[39m
+
+2025-04-26 15:55:30.342 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:55:30 [INFO]: [Cascade Manager] Opening diff zones for: App.js[39m
+
+2025-04-26 15:55:44.354 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:55:44 [INFO]: [Cascade Manager] Opening diff zones for: .env[39m
+
+2025-04-26 15:57:27.579 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 15:57:27 [INFO]: [Cascade Manager] Opening diff zones for: README.md[39m
+
+2025-04-26 15:58:25.925 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-04-26 15:58:29.391 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:58:41.005 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:58:49.134 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:58:57.335 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:59:05.420 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:59:10.597 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:59:19.713 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:59:38.881 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:59:47.729 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 15:59:52.730 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 15:59:59.453 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 16:00:05.655 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 16:00:10.655 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 16:00:27.180 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 16:00:32.180 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 16:00:36.813 [info] [127.0.0.1][3517e490][ExtensionHostConnection] The client has reconnected.
+2025-04-26 16:00:40.746 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 16:00:45.746 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 16:00:57.104 [info] [127.0.0.1][3517e490][ExtensionHostConnection] The client has reconnected.
+2025-04-26 16:00:57.687 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 16:01:02.688 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 16:01:17.841 [info] [127.0.0.1][3517e490][ExtensionHostConnection] The client has reconnected.
+2025-04-26 16:01:19.462 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 16:01:24.463 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 16:01:32.583 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-26 16:01:37.584 [error] No ptyHost heartbeat after 12 seconds
+2025-04-26 16:01:38.146 [info] [127.0.0.1][3517e490][ExtensionHostConnection] The client has reconnected.
+2025-04-26 16:01:56.759 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 16:01:56 [INFO]: [Cascade Manager] Opening diff zones for: vitest.config.js[39m
+
+2025-04-26 16:02:03.372 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 16:02:03 [INFO]: [Cascade Manager] Opening diff zones for: setupTests.js[39m
+
+2025-04-26 16:02:11.058 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 16:02:11 [INFO]: [Cascade Manager] Opening diff zones for: package.json[39m
+
+2025-04-26 16:45:04.108 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 16:45:04 [INFO]: [Cascade Manager] Opening diff zones for: .env[39m
+
+2025-04-26 16:45:06.417 [error] AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1122:18)
+    at afterConnectMultiple (node:net:1689:7)
+2025-04-26 16:48:34.460 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 16:48:34 [INFO]: [Cascade Manager] Opening diff zones for: requirements.txt[39m
+
+2025-04-26 16:50:15.071 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 16:50:15 [INFO]: [Cascade Manager] Opening diff zones for: database.py[39m
+
+2025-04-26 17:00:10.278 [info] [127.0.0.1][3517e490][ExtensionHostConnection] <1388> [32m(Windsurf) 2025-04-26 17:00:10 [INFO]: [Cascade Manager] Opening diff zones for: productContext.md[39m
+

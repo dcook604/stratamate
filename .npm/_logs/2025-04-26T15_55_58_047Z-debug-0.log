@@ -1,0 +1,13 @@
+0 verbose cli /home/windsurf/.nvm/versions/node/v22.15.0/bin/node /home/windsurf/.nvm/versions/node/v22.15.0/bin/npm
+1 info using npm@11.3.0
+2 info using node@v22.15.0
+3 silly config load:file:/home/windsurf/.nvm/versions/node/v22.15.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/windsurf/frontend/.npmrc
+5 silly config load:file:/home/windsurf/.npmrc
+6 silly config load:file:/home/windsurf/.nvm/versions/node/v22.15.0/etc/npmrc
+7 verbose title npm run dev
+8 verbose argv "run" "dev"
+9 verbose logfile logs-max:10 dir:/home/windsurf/.npm/_logs/2025-04-26T15_55_58_047Z-
+10 verbose logfile /home/windsurf/.npm/_logs/2025-04-26T15_55_58_047Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files

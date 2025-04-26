@@ -1,0 +1,64 @@
+0 verbose cli /home/windsurf/.nvm/versions/node/v22.15.0/bin/node /home/windsurf/.nvm/versions/node/v22.15.0/bin/npm
+1 info using npm@11.3.0
+2 info using node@v22.15.0
+3 silly config load:file:/home/windsurf/.nvm/versions/node/v22.15.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/windsurf/.cache/typescript/5.7/.npmrc
+5 silly config load:file:/home/windsurf/.npmrc
+6 silly config load:file:/home/windsurf/.nvm/versions/node/v22.15.0/etc/npmrc
+7 verbose title npm install @types/react@ts5.7 @types/react-dom@ts5.7 @types/jsdom@ts5.7
+8 verbose argv "install" "--ignore-scripts" "@types/react@ts5.7" "@types/react-dom@ts5.7" "@types/jsdom@ts5.7" "--save-dev" "--user-agent" "typesInstaller/5.7.3"
+9 verbose logfile logs-max:10 dir:/home/windsurf/.npm/_logs/2025-04-26T17_12_14_062Z-
+10 verbose logfile /home/windsurf/.npm/_logs/2025-04-26T17_12_14_062Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+14 silly packumentCache corgi:https://registry.npmjs.org/@types%2freact cache-miss
+15 silly packumentCache corgi:https://registry.npmjs.org/@types%2freact-dom cache-miss
+16 silly packumentCache corgi:https://registry.npmjs.org/@types%2fjsdom cache-miss
+17 http fetch GET 200 https://registry.npmjs.org/@types%2fjsdom 241ms (cache updated)
+18 silly packumentCache corgi:https://registry.npmjs.org/@types%2fjsdom set size:undefined disposed:false
+19 http fetch GET 200 https://registry.npmjs.org/@types%2freact 264ms (cache updated)
+20 silly packumentCache corgi:https://registry.npmjs.org/@types%2freact set size:undefined disposed:false
+21 http fetch GET 200 https://registry.npmjs.org/@types%2freact-dom 422ms (cache updated)
+22 silly packumentCache corgi:https://registry.npmjs.org/@types%2freact-dom set size:undefined disposed:false
+23 silly idealTree buildDeps
+24 silly fetch manifest @types/jsdom@21.1.7
+25 silly packumentCache full:https://registry.npmjs.org/@types%2fjsdom cache-miss
+26 http fetch GET 200 https://registry.npmjs.org/@types%2fjsdom 44ms (cache updated)
+27 silly packumentCache full:https://registry.npmjs.org/@types%2fjsdom set size:undefined disposed:false
+28 silly fetch manifest @types/react@19.1.2
+29 silly packumentCache full:https://registry.npmjs.org/@types%2freact cache-miss
+30 http fetch GET 200 https://registry.npmjs.org/@types%2freact 69ms (cache updated)
+31 silly packumentCache full:https://registry.npmjs.org/@types%2freact set size:undefined disposed:false
+32 silly fetch manifest @types/react-dom@19.1.2
+33 silly packumentCache full:https://registry.npmjs.org/@types%2freact-dom cache-miss
+34 http fetch GET 200 https://registry.npmjs.org/@types%2freact-dom 57ms (cache updated)
+35 silly packumentCache full:https://registry.npmjs.org/@types%2freact-dom set size:undefined disposed:false
+36 silly placeDep ROOT @types/jsdom@21.1.7 REPLACE for:  want: 21.1.7
+37 silly placeDep ROOT @types/react@19.1.2 REPLACE for:  want: 19.1.2
+38 silly placeDep ROOT @types/react-dom@19.1.2 REPLACE for:  want: 19.1.2
+39 silly reify moves {}
+40 silly audit bulk request {
+40 silly audit   '@types/debug': [ '4.1.12' ],
+40 silly audit   '@types/less': [ '3.0.8' ],
+40 silly audit   '@types/ms': [ '2.1.0' ],
+40 silly audit   '@types/node': [ '22.15.2' ],
+40 silly audit   '@types/stylus': [ '0.48.43' ],
+40 silly audit   '@types/tough-cookie': [ '4.0.5' ],
+40 silly audit   csstype: [ '3.1.3' ],
+40 silly audit   entities: [ '6.0.0' ],
+40 silly audit   parse5: [ '7.3.0' ],
+40 silly audit   'types-registry': [ '0.1.717' ],
+40 silly audit   'undici-types': [ '6.21.0' ],
+40 silly audit   '@types/jsdom': [ '21.1.7' ],
+40 silly audit   '@types/react': [ '19.1.2' ],
+40 silly audit   '@types/react-dom': [ '19.1.2' ]
+40 silly audit }
+41 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 88ms
+42 silly audit report {}
+43 verbose cwd /home/windsurf/.cache/typescript/5.7
+44 verbose os Linux 5.2.0
+45 verbose node v22.15.0
+46 verbose npm  v11.3.0
+47 verbose exit 0
+48 info ok

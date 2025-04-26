@@ -1,0 +1,18 @@
+2025-04-25 21:18:05.226 [info] Extension host with pid 37250 started
+2025-04-25 21:18:05.422 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-04-25 21:18:05.544 [info] Lock '/home/windsurf/.windsurf-server/data/User/workspaceStorage/577edb65cae8197399b85b2b078f4d5e/vscode.lock': Lock acquired.
+2025-04-25 21:18:06.892 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-04-25 21:18:06.892 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-04-25 21:18:12.978 [info] ExtensionService#_doActivateExtension codeium.windsurf, startup: false, activationEvent: '*'
+2025-04-25 21:18:17.049 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:18:17.050 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:19:01.151 [error] Error: Language server has not been started!
+	at get client [as client] (/home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/extensions/windsurf/dist/extension.js:2:3242450)
+	at Timeout.e [as _onTimeout] (/home/windsurf/.windsurf-server/bin/b21eedafd0e27ae3d0a6e454346f7b02178f0949/extensions/windsurf/dist/extension.js:2:3384858)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-04-25 21:19:08.635 [info] Eager extensions activated
+2025-04-25 21:19:12.747 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2025-04-25 21:19:37.083 [info] Extension host terminating: received terminate message from renderer
+2025-04-25 21:19:37.084 [info] Lock '/home/windsurf/.windsurf-server/data/User/workspaceStorage/577edb65cae8197399b85b2b078f4d5e/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-04-25 21:19:37.204 [info] Extension host with pid 37250 exiting with code 0

@@ -1,0 +1,61 @@
+0 verbose cli /home/windsurf/.nvm/versions/node/v22.15.0/bin/node /home/windsurf/.nvm/versions/node/v22.15.0/bin/npm
+1 info using npm@11.3.0
+2 info using node@v22.15.0
+3 silly config load:file:/home/windsurf/.nvm/versions/node/v22.15.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/windsurf/.cache/typescript/5.7/.npmrc
+5 silly config load:file:/home/windsurf/.npmrc
+6 silly config load:file:/home/windsurf/.nvm/versions/node/v22.15.0/etc/npmrc
+7 verbose title npm install @types/debug@ts5.7
+8 verbose argv "install" "--ignore-scripts" "@types/debug@ts5.7" "--save-dev" "--user-agent" "typesInstaller/5.7.3"
+9 verbose logfile logs-max:10 dir:/home/windsurf/.npm/_logs/2025-04-26T16_02_09_887Z-
+10 verbose logfile /home/windsurf/.npm/_logs/2025-04-26T16_02_09_887Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+14 silly packumentCache corgi:https://registry.npmjs.org/@types%2fdebug cache-miss
+15 http fetch GET 200 https://registry.npmjs.org/@types%2fdebug 238ms (cache miss)
+16 silly packumentCache corgi:https://registry.npmjs.org/@types%2fdebug set size:undefined disposed:false
+17 silly idealTree buildDeps
+18 silly fetch manifest @types/debug@4.1.12
+19 silly packumentCache full:https://registry.npmjs.org/@types%2fdebug cache-miss
+20 http cache https://registry.npmjs.org/@types%2fdebug 12ms (cache hit)
+21 silly packumentCache full:https://registry.npmjs.org/@types%2fdebug set size:51334 disposed:false
+22 silly placeDep ROOT @types/debug@4.1.12 OK for:  want: 4.1.12
+23 silly fetch manifest @types/ms@*
+24 silly packumentCache full:https://registry.npmjs.org/@types%2fms cache-miss
+25 http fetch GET 200 https://registry.npmjs.org/@types%2fms 42ms (cache miss)
+26 silly packumentCache full:https://registry.npmjs.org/@types%2fms set size:undefined disposed:false
+27 silly placeDep ROOT @types/ms@2.1.0 OK for: @types/debug@4.1.12 want: *
+28 silly reify moves {}
+29 silly audit bulk request {
+29 silly audit   '@types/jsdom': [ '21.1.7' ],
+29 silly audit   '@types/less': [ '3.0.8' ],
+29 silly audit   '@types/node': [ '22.15.2' ],
+29 silly audit   '@types/react': [ '19.1.2' ],
+29 silly audit   '@types/react-dom': [ '19.1.2' ],
+29 silly audit   '@types/stylus': [ '0.48.43' ],
+29 silly audit   '@types/tough-cookie': [ '4.0.5' ],
+29 silly audit   csstype: [ '3.1.3' ],
+29 silly audit   entities: [ '6.0.0' ],
+29 silly audit   parse5: [ '7.3.0' ],
+29 silly audit   'types-registry': [ '0.1.717' ],
+29 silly audit   'undici-types': [ '6.21.0' ],
+29 silly audit   '@types/debug': [ '4.1.12' ],
+29 silly audit   '@types/ms': [ '2.1.0' ]
+29 silly audit }
+30 http cache @types/ms@https://registry.npmjs.org/@types/ms/-/ms-2.1.0.tgz 0ms (cache hit)
+31 silly tarball no local data for @types/ms@https://registry.npmjs.org/@types/ms/-/ms-2.1.0.tgz. Extracting by manifest.
+32 http cache @types/debug@https://registry.npmjs.org/@types/debug/-/debug-4.1.12.tgz 1ms (cache hit)
+33 silly tarball no local data for @types/debug@https://registry.npmjs.org/@types/debug/-/debug-4.1.12.tgz. Extracting by manifest.
+34 http fetch GET 200 https://registry.npmjs.org/@types/ms/-/ms-2.1.0.tgz 78ms (cache miss)
+35 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 108ms
+36 silly audit report {}
+37 http fetch GET 200 https://registry.npmjs.org/@types/debug/-/debug-4.1.12.tgz 77ms (cache miss)
+38 silly ADD node_modules/@types/ms
+39 silly ADD node_modules/@types/debug
+40 verbose cwd /home/windsurf/.cache/typescript/5.7
+41 verbose os Linux 5.2.0
+42 verbose node v22.15.0
+43 verbose npm  v11.3.0
+44 verbose exit 0
+45 info ok

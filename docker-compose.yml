@@ -1,0 +1,23 @@
+version: '3.8'
+services:
+  backend:
+    build: ./backend
+    container_name: strata_backend
+    ports:
+      - "8811:8000"
+    volumes:
+      - ./backend:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+
+  frontend:
+    build: ./frontend
+    container_name: strata_frontend
+    ports:
+      - "8383:80"
+    depends_on:
+      - backend
+    volumes:
+      - ./frontend:/app
+    restart: unless-stopped

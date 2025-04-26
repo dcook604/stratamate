@@ -1,0 +1,22 @@
+Server bound to 127.0.0.1:46773 (IPv4)
+Extension host agent listening on 46773
+
+[17:11:27] 
+
+
+
+
+[17:11:27] Extension host agent started.
+[17:11:28] [127.0.0.1][358291db][ManagementConnection] New connection established.
+[17:11:28] [127.0.0.1][5543f044][ExtensionHostConnection] New connection established.
+[17:11:28] [127.0.0.1][5543f044][ExtensionHostConnection] <7860> Launched Extension Host Process.
+[17:11:41] [127.0.0.1][5543f044][ExtensionHostConnection] <7860> [32m(Windsurf) 2025-04-26 17:11:41 [INFO]: Language server started[39m
+
+[17:11:42] [127.0.0.1][5543f044][ExtensionHostConnection] <7860> [32m(Windsurf) 2025-04-26 17:11:42 [INFO]: LS lspClient started successfully[39m
+
+[17:11:53] [127.0.0.1][5543f044][ExtensionHostConnection] <7860> [32m(Windsurf) 2025-04-26 17:11:53 [INFO]: [Cascade Manager] Opening diff zones for: [39m
+
+New EH opened, aborting shutdown
+[17:16:27] New EH opened, aborting shutdown
+[17:18:12] [127.0.0.1][5543f044][ExtensionHostConnection] <7860> [32m(Windsurf) 2025-04-26 17:18:12 [INFO]: [Cascade Manager] Opening diff zones for: database.py[39m
+

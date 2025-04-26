@@ -1,0 +1,45 @@
+2025-04-26 15:46:16.685 [info] 2025/04/26 15:46:16 maxprocs: Leaving GOMAXPROCS=4: CPU quota undefined
+2025-04-26 15:46:17.534 [info] I0426 15:46:17.534683  1659 main.go:582] Setting GOMAXPROCS to 4
+2025-04-26 15:46:17.539 [info] I0426 15:46:17.539141  1659 main.go:797] Starting language server process with pid 1659
+2025-04-26 15:46:17.574 [info] I0426 15:46:17.573853  1659 server.go:260] Language server will attempt to listen on host 127.0.0.1
+2025-04-26 15:46:17.574 [info] I0426 15:46:17.574307  1659 server.go:267] Language server listening on random port at 39652
+2025-04-26 15:46:17.882 [info] I0426 15:46:17.881780  1659 server.go:378] Created extension server client at port 35369
+2025-04-26 15:46:19.581 [info] I0426 15:46:19.580806  1659 server.go:887] Local search is enabled, will index local files.
+2025-04-26 15:46:19.581 [info] I0426 15:46:19.580854  1659 server.go:891] Using 1 indexer workers
+2025-04-26 15:46:19.895 [info] (Windsurf) 2025-04-26 15:46:19.890 [INFO]: Language server started
+2025-04-26 15:46:20.392 [info] (Windsurf) 2025-04-26 15:46:20.392 [INFO]: LS lspClient started successfully
+2025-04-26 15:46:38.351 [info] (Windsurf) 2025-04-26 15:46:38.351 [INFO]: [Cascade Manager] Opening diff zones for: 
+2025-04-26 15:47:55.597 [info] (Windsurf) 2025-04-26 15:47:55.597 [INFO]: [Cascade Manager] Opening diff zones for: package.json
+2025-04-26 15:48:31.087 [info] (Windsurf) 2025-04-26 15:48:31.086 [INFO]: [Cascade Manager] Opening diff zones for: package.json
+2025-04-26 15:49:09.107 [info] (Windsurf) 2025-04-26 15:49:09.106 [INFO]: [Cascade Manager] Opening diff zones for: package.json
+2025-04-26 15:51:16.806 [info] W0426 15:51:16.805285  1659 workspace_manager.go:480] Too many changes in DidChangeWatchedFiles: 6500
+2025-04-26 15:51:17.530 [info] W0426 15:51:17.530477  1659 workspace_manager.go:480] Too many changes in DidChangeWatchedFiles: 1495
+2025-04-26 15:51:23.083 [info] W0426 15:51:23.082923  1659 workspace_manager.go:480] Too many changes in DidChangeWatchedFiles: 1499
+2025-04-26 15:53:10.823 [info] W0426 15:53:10.820893  1659 workspace_manager.go:480] Too many changes in DidChangeWatchedFiles: 3702
+2025-04-26 15:53:28.709 [info] W0426 15:53:28.709025  1659 workspace_manager.go:480] Too many changes in DidChangeWatchedFiles: 2131
+2025-04-26 15:54:13.180 [info] (Windsurf) 2025-04-26 15:54:13.180 [INFO]: [Cascade Manager] Opening diff zones for: vite.config.js
+2025-04-26 15:54:23.659 [info] (Windsurf) 2025-04-26 15:54:23.659 [INFO]: [Cascade Manager] Opening diff zones for: package.json
+2025-04-26 15:54:30.285 [info] (Windsurf) 2025-04-26 15:54:30.284 [INFO]: [Cascade Manager] Opening diff zones for: package.json
+2025-04-26 15:54:44.982 [info] (Windsurf) 2025-04-26 15:54:44.982 [INFO]: [Cascade Manager] Opening diff zones for: index.html
+2025-04-26 15:55:29.491 [info] (Windsurf) 2025-04-26 15:55:29.491 [INFO]: [Cascade Manager] Opening diff zones for: auth.js
+2025-04-26 15:55:29.528 [info] (Windsurf) 2025-04-26 15:55:29.528 [INFO]: [Cascade Manager] Opening diff zones for: remoteLogger.js
+2025-04-26 15:55:29.615 [info] (Windsurf) 2025-04-26 15:55:29.615 [INFO]: [Cascade Manager] Opening diff zones for: DashboardPage.js
+2025-04-26 15:55:29.656 [info] (Windsurf) 2025-04-26 15:55:29.655 [INFO]: [Cascade Manager] Opening diff zones for: RegisterPage.js
+2025-04-26 15:55:29.704 [info] (Windsurf) 2025-04-26 15:55:29.704 [INFO]: [Cascade Manager] Opening diff zones for: UserProfilePage.js
+2025-04-26 15:55:29.829 [info] (Windsurf) 2025-04-26 15:55:29.828 [INFO]: [Cascade Manager] Opening diff zones for: UnitForm.js
+2025-04-26 15:55:29.982 [info] (Windsurf) 2025-04-26 15:55:29.982 [INFO]: [Cascade Manager] Opening diff zones for: PropertyList.js
+2025-04-26 15:55:30.057 [info] (Windsurf) 2025-04-26 15:55:30.057 [INFO]: [Cascade Manager] Opening diff zones for: TicketForm.js
+2025-04-26 15:55:30.276 [info] (Windsurf) 2025-04-26 15:55:30.276 [INFO]: [Cascade Manager] Opening diff zones for: UnitList.js
+2025-04-26 15:55:30.342 [info] (Windsurf) 2025-04-26 15:55:30.342 [INFO]: [Cascade Manager] Opening diff zones for: App.js
+2025-04-26 15:55:44.355 [info] (Windsurf) 2025-04-26 15:55:44.355 [INFO]: [Cascade Manager] Opening diff zones for: .env
+2025-04-26 15:57:27.579 [info] (Windsurf) 2025-04-26 15:57:27.579 [INFO]: [Cascade Manager] Opening diff zones for: README.md
+2025-04-26 16:00:13.779 [info] W0426 16:00:13.707329  1659 workspace_manager.go:480] Too many changes in DidChangeWatchedFiles: 1235
+2025-04-26 16:01:51.296 [info] W0426 16:01:51.286824  1659 workspace_manager.go:480] Too many changes in DidChangeWatchedFiles: 9441
+2025-04-26 16:01:54.717 [info] W0426 16:01:54.717259  1659 workspace_manager.go:480] Too many changes in DidChangeWatchedFiles: 6892
+2025-04-26 16:01:56.758 [info] (Windsurf) 2025-04-26 16:01:56.758 [INFO]: [Cascade Manager] Opening diff zones for: vitest.config.js
+2025-04-26 16:02:03.371 [info] (Windsurf) 2025-04-26 16:02:03.371 [INFO]: [Cascade Manager] Opening diff zones for: setupTests.js
+2025-04-26 16:02:11.059 [info] (Windsurf) 2025-04-26 16:02:11.059 [INFO]: [Cascade Manager] Opening diff zones for: package.json
+2025-04-26 16:45:04.108 [info] (Windsurf) 2025-04-26 16:45:04.108 [INFO]: [Cascade Manager] Opening diff zones for: .env
+2025-04-26 16:48:34.460 [info] (Windsurf) 2025-04-26 16:48:34.460 [INFO]: [Cascade Manager] Opening diff zones for: requirements.txt
+2025-04-26 16:50:15.071 [info] (Windsurf) 2025-04-26 16:50:15.071 [INFO]: [Cascade Manager] Opening diff zones for: database.py
+2025-04-26 17:00:10.280 [info] (Windsurf) 2025-04-26 17:00:10.279 [INFO]: [Cascade Manager] Opening diff zones for: productContext.md

@@ -1,0 +1,25 @@
+[Info  - 2:03:20 PM] windsurfPyright language server 1.28.0 starting
+[Info  - 2:03:20 PM] Server root directory: file:///home/windsurf/.windsurf-server/extensions/codeium.windsurfpyright-1.28.0-universal/dist
+[Info  - 2:03:20 PM] Starting service instance "windsurf"
+Received pythonPath from Python extension: /bin/python
+[Info  - 2:03:20 PM] Setting pythonPath for service "windsurf": "/bin/python"
+[Info  - 2:03:20 PM] No include entries specified; assuming /home/windsurf
+[Info  - 2:03:20 PM] Auto-excluding **/node_modules
+[Info  - 2:03:20 PM] Auto-excluding **/__pycache__
+[Info  - 2:03:20 PM] Auto-excluding **/.*
+[Info  - 2:03:21 PM] Assuming Python version 3.10.12.final.0
+[Info  - 2:03:21 PM] Found 13 source files
+[Info  - 2:03:21 PM] Background analysis(1) root directory: file:///home/windsurf/.windsurf-server/extensions/codeium.windsurfpyright-1.28.0-universal/dist
+[Info  - 2:03:21 PM] Background analysis(1) started
+[Info  - 2:03:25 PM] [BG(1)] Long operation: checking: file:///home/windsurf/backend/database.py (2909ms)
+[Info  - 2:03:25 PM] [BG(1)] Long operation: analyzing: file:///home/windsurf/backend/database.py (2944ms)
+[Info  - 2:03:28 PM] [BG(1)] Long operation: checking: file:///home/windsurf/backend/deps.py (3196ms)
+[Info  - 2:03:28 PM] [BG(1)] Long operation: analyzing: file:///home/windsurf/backend/deps.py (3212ms)
+[Info  - 2:03:30 PM] [BG(1)] Long operation: checking: file:///home/windsurf/backend/deps.py (2191ms)
+[Info  - 2:03:30 PM] [BG(1)] Long operation: analyzing: file:///home/windsurf/backend/deps.py (2191ms)
+[Info  - 2:03:33 PM] [BG(1)] Long operation: checking: file:///home/windsurf/backend/deps.py (2561ms)
+[Info  - 2:03:33 PM] [BG(1)] Long operation: analyzing: file:///home/windsurf/backend/deps.py (2561ms)
+[Info  - 2:03:37 PM] [BG(1)] Long operation: checking: file:///home/windsurf/backend/deps.py (3961ms)
+[Info  - 2:03:37 PM] [BG(1)] Long operation: analyzing: file:///home/windsurf/backend/deps.py (3961ms)
+[Info  - 2:03:39 PM] [BG(1)] Long operation: checking: file:///home/windsurf/backend/routers/announcements.py (2193ms)
+[Info  - 2:03:39 PM] [BG(1)] Long operation: analyzing: file:///home/windsurf/backend/routers/announcements.py (2197ms)
