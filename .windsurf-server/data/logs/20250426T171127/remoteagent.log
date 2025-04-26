@@ -16,3 +16,4 @@
 2025-04-26 17:16:27.702 [info] New EH opened, aborting shutdown
 2025-04-26 17:18:12.444 [info] [127.0.0.1][5543f044][ExtensionHostConnection] <7860> [32m(Windsurf) 2025-04-26 17:18:12 [INFO]: [Cascade Manager] Opening diff zones for: database.py[39m
 
+2025-04-26 17:40:40.380 [warning] No ptyHost heartbeat after 6 seconds
