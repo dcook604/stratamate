@@ -1,23 +1,42 @@
 version: '3.8'
 services:
+  db:
+    image: postgres:15
+    container_name: strata_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: stratamate
+      POSTGRES_USER: stratamate
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    volumes:
+      - db_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
   backend:
     build: ./backend
     container_name: strata_backend
+    depends_on:
+      - db
+    environment:
+      PYTHONUNBUFFERED: 1
+      DATABASE_URL: postgres://stratamate:${POSTGRES_PASSWORD}@db:5432/stratamate
+      # Add other backend env vars as needed
     ports:
       - "8811:8000"
-    volumes:
-      - ./backend:/app
-    environment:
-      - PYTHONUNBUFFERED=1
     restart: unless-stopped
 
   frontend:
     build: ./frontend
     container_name: strata_frontend
-    ports:
-      - "8383:80"
     depends_on:
       - backend
-    volumes:
-      - ./frontend:/app
+    environment:
+      VITE_API_BASE_URL: http://backend:8000
+      # Add other frontend env vars as needed
+    ports:
+      - "8383:80"
     restart: unless-stopped
+
+volumes:
+  db_data:
